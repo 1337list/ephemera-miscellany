@@ -1,0 +1,111 @@
+# List of Helpful Information Security Multimedia
+The channels listed here will eventually be monitored by [@HackerTalkyTalk](https://twitter.com/hackertalkytalk), so that whenever new videos get uploaded, there's only one Twitter account you need to watch to keep track of new material as it gets released. :D
+
+Feel free to add more to the list; this is pretty incomplete, but better than nothing for folks who are new. :)
+
+## List of Infosec/Hacker Conference Recordings
+  * [3C/CCC](https://media.ccc.de/)
+  * [DEFCON](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
+  * [Irongeek's channel](https://www.youtube.com/user/irongeek/playlists) (collection of 2000+ con videos from smaller American cons, esp. BSides)
+  * [Ministraitor's channel](https://www.youtube.com/channel/UCI6B0zYvK-7FdM0Vgh3v3Tg/playlists) (kinda like a European version of Irongeek)
+  * [Hacktivity](https://www.youtube.com/user/hacktivity/playlists)
+  * [S4](https://www.youtube.com/channel/UC5MdLu7ji_eyGiTfigk75lQ) (ICS)
+  * [ZeroNights](https://www.youtube.com/channel/UCtQ0fPmP4fCGBkYWMxnjh6A/playlists)
+  * [REcon](https://www.youtube.com/user/ekse0x/playlists)
+  * [BruCON](https://www.youtube.com/user/brucontalks/playlists)
+  * [Hack in the Box (HITB)](https://www.youtube.com/user/hitbsecconf/playlists)
+  * [SANS DFIR](https://www.youtube.com/user/robtlee73) (DFIR + threat hunting + threat intel)
+  * [SANS Pentesting](https://www.youtube.com/channel/UCP28F4uf9s2V1_SQwnJST_A) (penetration testing)
+  * [SANS ISC](https://www.youtube.com/channel/UCfbOsqPmWg1H_34hTjKEW2A) (netsec + nsm)
+  * [SHA2017](https://www.youtube.com/channel/UCHmPMdU0O9P_W6I1hNyvBIQ)
+  * SAINTcon [[playlists](https://www.youtube.com/channel/UCMhbHwZWv_YHzGfFk4A5jDA/playlists) & [videos](https://www.youtube.com/channel/UCxJyF3XQlzOzqBFluCEVv7w/videos)]
+  * [Toorcon](https://www.youtube.com/channel/UCnzjmL0xkTBYwFZD7agHGWw/playlists)
+  * [ekoparty](https://www.youtube.com/channel/UCiVNwNkoMapaeyr9o6XEonA)
+  * [Real World Crypto](https://www.youtube.com/channel/UCQiIRDBmp3pfTdRJ99EeDEw) (cryptography)
+  * [BSidesLV](https://www.youtube.com/channel/UCpNGmljppAJbTIA5Msms1Pw)
+  * [SecKC](https://www.youtube.com/channel/UChiOlx_ROnjhAnmgjrY5Eyg)
+  * [CarolinaCon](https://www.youtube.com/channel/UCTY3Dpz68CyrjwRzqkE4sFw) (offsec)
+  * [Wild West Hackin' Fest](https://www.youtube.com/channel/UCef0TWni8ghLcJphdmDBoxw)
+  * [Rooted Con](https://www.youtube.com/channel/UCeqrsQm33UBFHb50zorReHQ)
+  * [BalCCon](https://www.youtube.com/channel/UCoHypmu8rxlB5Axh5JxFZsA/playlists)
+  * [SEC-T](https://www.youtube.com/user/SECTDirector/playlists)
+  * [FSec](https://www.youtube.com/channel/UCkX2ZzX1rrC9e1Z0TaNYc9A)
+  * [LayerOne](https://www.youtube.com/channel/UCYppsiYnhSHvwWmE2ePMxWg)
+  * [TROOPERScon](https://www.youtube.com/channel/UCPY5aUREHmbDO4PtR6AYLfQ)
+  * [BlackAlps CyberSecurityConference](https://www.youtube.com/channel/UCkCV_HJUkI8PsFrX4wpPX4A)
+  * [x33fcon](https://www.youtube.com/playlist?list=PL7ZDZo2Xu3303oQ5iPItgS1wpLqu2-Fd4) (purple team)
+  * [SkyDogCon](https://www.youtube.com/user/skydogcon/playlists)
+  * [SecurityOnion Con](https://www.youtube.com/channel/UCNBFTyYCdjT5hnm7uW25vGQ/playlists)
+  * [Nullcon](https://www.youtube.com/user/nullcon/videos)
+  * [KansasFest](https://www.youtube.com/user/KansasFest/videos) (retro gaming, some reverse engineering)
+  * [Infocon.org](https://infocon.org/)
+  * [Botconf.eu](https://www.youtube.com/user/BotConfTV/playlists)
+
+### BSides
+  * [BSidesLisbon](https://www.youtube.com/channel/UC_M0dk4dvcBr_rFgi710D4Q/playlists)
+  * [BSidesRaleigh](https://www.youtube.com/watch?v=EpS-ks1vf9A&list=PLTOzjw9-RQ72F83cpmN73TlTqTLmIC73M)
+  * [BSidesCapeTown](https://www.youtube.com/channel/UCf3DodO2LfdbtHywUpI-nPA/playlists?shelf_id=0&sort=dd&view=1)
+  * [BSidesStJohns](https://www.youtube.com/channel/UCpXX3n6x1eYDquQw6TbcNCQ)
+  * [BSidesLondon](https://www.youtube.com/channel/UCXXNOelGiY_N96a2nfhcaDA/playlists)
+  * [BSidesVancouver](https://www.youtube.com/playlist?list=PLWHo0G0HmBgfNDcvfGSoEUmxQeF_yAUVF)
+  * [BSidesIOWA](https://www.youtube.com/channel/UC4lxFUBrMnT0MgoJ98yRM0Q/playlists)
+  * [BSidesDE](https://www.youtube.com/user/BSidesDE/playlists)
+  * [BSidesOrlando](https://www.youtube.com/watch?v=FmPqI1QZ7Ow&list=PLgfYOpahpSewwEz65FUHRWNpBHQ5V4FFk)
+  * [BSidesWarsaw](https://www.youtube.com/channel/UCexBIw_UJOz-H1PD9I9zkGw/playlists)
+  * [BSidesSLC](https://www.youtube.com/channel/UCuJ0qrx-oNq2hxrUX5IYd9A/videos)
+  * [BSidesSF](https://www.youtube.com/channel/UCWemrSP6Aba171jXReCz_Qg/playlists)
+  * [BSidesPhilly](https://www.youtube.com/playlist?list=PL2T7DhHqMeE_26AJJicKnFQpSyXkNQ5ok)
+
+## Other Multimedia
+### Livestreams
+  * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/playlists) (CTF, reverse engineering, etc)
+  * [vTriple livestream](https://www.twitch.tv/vtriple/videos/all) (DFIR & dev)
+  * [OJ/th3colon1al](https://www.youtube.com/c/OJReeves) (Metasploit + Meterpreter dev)
+  * [Gynvael](https://www.youtube.com/user/GynvaelEN) (CTF + reverse engineering)
+  * [Hedgeberg](https://www.twitch.tv/hedgeberg/videos/all) (reverse engineering)
+  * [Rook](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA/videos) (CTF walkthroughs)
+
+### Shows
+  * [Hak5](https://www.youtube.com/user/Hak5Darren/playlists) (basic skills + pentesting)
+  * [Security Weekly](https://www.youtube.com/user/SecurityWeeklyTV)
+  * [SecurityTube](https://www.youtube.com/user/TheSecurityTube/videos)
+  * [Rally Security](https://rallysecurity.com/)
+  * [Forensic Lunch](https://www.youtube.com/user/LearnForensics) (DFIR)
+  * [Malware Analysis for Hedgehogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A) (DFIR + malware analysis)
+  * [Hasherezade](https://www.youtube.com/channel/UCNWVswPNgn5kutPNa5sprkg/video) (malware analysis)
+  * [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+  * [SDR intro with Michael Ossmann](https://www.youtube.com/playlist?list=PLVQhg1UYyzxUcv-bZnxOOA6pkoAB021d9)
+  * [SANS Security Awareness](https://www.youtube.com/channel/UCS9bnBE8KUcTUDqUZ7PKMgw) (soft skills)
+  * [Big Brain Security](https://www.youtube.com/channel/UCAPQk1fH2A4pzYjwTCt5-dw/videos)
+  * [Duo Tech Talks](https://www.youtube.com/watch?v=ynbD-U6KXLk&list=PLb_2WL99k5kE39uvcu7kE1simsWdIH3dp)
+  * [Black Hills Information Security](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A/videos)
+
+ 
+### Podcasts
+  * [Source Code](http://chrissanders.org/2017/03/introducing-source-code-podcast/) (interviews with infosec folks to learn how they got into infosec)
+  * [BDS Podcast](https://www.youtube.com/channel/UCZFjAqFb4A60M1TMa0t1KXw/videos)
+  * @TheManyHatsClub's [weekly interviews with infosec folk](https://twitter.com/TheManyHatsClub)
+
+
+
+## Practice Materials 
+  * @blackroomsec's [List of Hacking & CTF Challenge Sites - Updated February 2, 2018](http://www.blackroomsec.com/wp-content/uploads/List-of-Hacking-Sites.pdf)
+  * @FSecure's [Cyber Security MOOC](https://cybersecuritybase.github.io/)
+  * @0xmchow's [COMP 116: Introduction to Computer Security](https://github.com/tuftsdev/DefenseAgainstTheDarkArts/)
+  * @chrissanders88's [The Cuckoo's Egg Decompiled](http://chrissanders.org/cuckoosegg/) [intro to SOC]
+  * JPCERT/CC's [catalogue of DFIR artifacts left by common attack tools](https://jpcertcc.github.io/ToolAnalysisResultSheet/)
+  * [HackTheBox.eu](https://www.hackthebox.eu/)
+  * OverTheWire's [Wargames](http://overthewire.org/wargames/)
+  * @Hacker0x01 & @daeken's [Hacker101.com](https://www.hacker101.com/)
+  * @OWASP's [collection of vulnerable web apps](https://github.com/OWASP/OWASP-VWAD)
+  * @ProjectHoneynet [challenge archive](https://www.honeynet.org/challenges) (DFIR)
+  * @Fox0x01's [ARM reverse engineering tutorials](https://azeria-labs.com/) (reverse engineering ARM)
+  * @malwareunicorn's [RE101 & RE102](https://securedorg.github.io/) (reverse engineering x86 + malware analysis intro)
+  * @malware_traffic's [malware traffic analysis exercises](https://malware-traffic-analysis.net/)
+  * @FuzzySec's [exploit dev  tutorial](https://www.fuzzysecurity.com/tutorials.html)
+  * [ROP Emporium](https://ropemporium.com/)
+  * [#DailyScriptlets](https://twitter.com/search?q=%23DailyScriptlet&src=typd)
+  * [CTFtime.org](https://ctftime.org/)
+
+
+**MEETUPS**, which sometimes have talks, and usually have awesome people to talk to: @nyxgeek's http://hackermaps.org/
