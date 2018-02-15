@@ -38,8 +38,8 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   * [SecurityOnion Con](https://www.youtube.com/channel/UCNBFTyYCdjT5hnm7uW25vGQ) (NSM+IDS+IPS)
   * [Nullcon](https://www.youtube.com/user/nullcon/videos)
   * [KansasFest](https://www.youtube.com/user/KansasFest/videos) (retro gaming, some reverse engineering)
-  * [Infocon.org](https://infocon.org/)
-  * [Botconf.eu](https://www.youtube.com/user/BotConfTV/playlists)
+  * [Infocon.org](https://infocon.org/) (talk+podcast aggregator)
+  * [Botconf.eu](https://www.youtube.com/user/BotConfTV/playlists) (malware analysis)
 
 ### BSides
   * [BSidesLisbon](https://www.youtube.com/channel/UC_M0dk4dvcBr_rFgi710D4Q/playlists)
@@ -55,6 +55,7 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   * [BSidesSLC](https://www.youtube.com/channel/UCuJ0qrx-oNq2hxrUX5IYd9A/videos)
   * [BSidesSF](https://www.youtube.com/channel/UCWemrSP6Aba171jXReCz_Qg/playlists)
   * [BSidesPhilly](https://www.youtube.com/playlist?list=PL2T7DhHqMeE_26AJJicKnFQpSyXkNQ5ok)
+  * BSides Tel Aviv: [BSidesTLV2017](https://www.youtube.com/playlist?list=PLNiWLB_wsOg6ptHBKQaeAJY-A479CqjHL) & [BSidesTLV2016](https://www.youtube.com/playlist?list=PLNiWLB_wsOg4YPY6v76waeuTyWVAgo0Bx)
 
 ## Other Multimedia
 ### Shows &/or Livestreams
