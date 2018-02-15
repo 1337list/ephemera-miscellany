@@ -94,11 +94,10 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
 
  
 ### Podcasts
-  * [Security Weekly](https://www.youtube.com/user/SecurityWeeklyTV)
-  * [Source Code](http://chrissanders.org/2017/03/introducing-source-code-podcast/) (interviews with infosec folks to learn how they got into infosec)
+  * Paul Asadoorian's [Security Weekly (@securityweekly) podcasts](https://www.youtube.com/user/SecurityWeeklyTV)
+  * @chrissanders88's [Source Code](http://chrissanders.org/2017/03/introducing-source-code-podcast/) (interviews with infosec folks to learn how they got into infosec)
   * @maliciouslink & @lerg's [@Defensivesec podcast](http://www.defensivesecurity.org/listen)
-  * [BDS Podcast](https://www.youtube.com/channel/UCZFjAqFb4A60M1TMa0t1KXw/videos)
-  * @bryanbrake & @InfoSystir's [@BrakeSec podcast](http://www.brakeingsecurity.com/)
+  * @bryanbrake & @InfoSystir's [@BrakeSec podcast](http://www.brakeingsecurity.com/) (+ [YouTube](https://www.youtube.com/channel/UCZFjAqFb4A60M1TMa0t1KXw/videos) channel)
   * @TheManyHatsClub's [weekly interviews with infosec folk](https://twitter.com/TheManyHatsClub)
   * @cyentiainst's [Cyentia Podcast](https://www.cyentia.com/podcast/)
   * @kyleshevlin's [@2ndCareerDevs](https://secondcareerdevs.com/about) [adjacent: devops + lateral]
@@ -136,7 +135,6 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   * @FuzzySec's [exploit dev  tutorial](https://www.fuzzysecurity.com/tutorials.html)
   * [ROP Emporium](https://ropemporium.com/)
   * [#DailyScriptlets](https://twitter.com/search?q=%23DailyScriptlet&src=typd)
-
   * [CTFtime.org](https://ctftime.org/)
 
 **MEETUPS**, which sometimes have talks, and usually have awesome people to talk to: @nyxgeek's http://hackermaps.org/
