@@ -57,15 +57,20 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   * [BSidesPhilly](https://www.youtube.com/playlist?list=PL2T7DhHqMeE_26AJJicKnFQpSyXkNQ5ok)
 
 ## Other Multimedia
-### Livestreams
+### Shows &/or Livestreams
   * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/playlists) (CTF, reverse engineering, etc)
   * [vTriple livestream](https://www.twitch.tv/vtriple/videos/all) (DFIR & dev)
   * [OJ/th3colon1al](https://www.youtube.com/c/OJReeves) (Metasploit + Meterpreter dev)
   * [Gynvael](https://www.youtube.com/user/GynvaelEN) (CTF + reverse engineering)
   * [Hedgeberg](https://www.twitch.tv/hedgeberg/videos/all) (reverse engineering)
   * [Rook](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA/videos) (CTF walkthroughs)
-
-### Shows
+  * [Murmus CTF](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A) (CTF walkthroughs)
+  * [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) (CTF walkthroughs)
+  * [MeshX93](https://www.youtube.com/user/MeshX93)
+  * [webpwnized](https://www.youtube.com/user/webpwnized) (appsec, websec, netsec)
+  * [Micah Elizabeth Scott](https://www.youtube.com/user/micahjd)
+  * [John Hammond](https://www.youtube.com/user/RootOfTheNull)
+  * [Cybersecurity Camp](https://www.youtube.com/channel/UCCm0tSE3YMifM93QjqsWRJA/playlists)
   * [Hak5](https://www.youtube.com/user/Hak5Darren/playlists) (basic skills + pentesting)
   * [Security Weekly](https://www.youtube.com/user/SecurityWeeklyTV)
   * [SecurityTube](https://www.youtube.com/user/TheSecurityTube/videos)
@@ -73,6 +78,7 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   * [Forensic Lunch](https://www.youtube.com/user/LearnForensics) (DFIR)
   * [Malware Analysis for Hedgehogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A) (DFIR + malware analysis)
   * [Hasherezade](https://www.youtube.com/channel/UCNWVswPNgn5kutPNa5sprkg/video) (malware analysis)
+  * [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg/videos) (malware analysis)
   * [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
   * [SDR intro with Michael Ossmann](https://www.youtube.com/playlist?list=PLVQhg1UYyzxUcv-bZnxOOA6pkoAB021d9)
   * [SANS Security Awareness](https://www.youtube.com/channel/UCS9bnBE8KUcTUDqUZ7PKMgw) (soft skills)
