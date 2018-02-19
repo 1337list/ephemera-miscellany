@@ -6,41 +6,78 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
 ## Infosec/Hacker Conference Talk Recordings
   0. [3C/CCC](https://media.ccc.de/)
   0. [DEFCON](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
-  0. [Infocon.org](https://infocon.org/) (talk+podcast aggregator)
-  0. [Irongeek's channel](https://www.youtube.com/user/irongeek/playlists) (collection of 2000+ con videos from smaller American cons, esp. BSides)
-  0. [Ministraitor's channel](https://www.youtube.com/channel/UCI6B0zYvK-7FdM0Vgh3v3Tg/playlists) (kinda like a European version of Irongeek)
+  0. [Infocon.org](https://infocon.org/) `[talk+podcast aggregator]`
+  0. [Irongeek's channel](https://www.youtube.com/user/irongeek/playlists) `[Collection of ~2000+ con videos from smaller American cons]`
+     - BSides Tampa [2015 • [2017](https://www.youtube.com/playlist?list=PLNhlcxQZJSm988sgt1Gq9_SPWEqTkB4s8)]
+     - BSides NoVa (Northern Virginia) [2017]
+     - BSides Cleveland [2014 • 2015 • 2017]
+     - BSides Detroit [2015 • 2016 • 2017]
+     - BSides Charm (Baltimore) [2017]
+     - BSides Nashville [2014 • 2015 • 2017]
+     - BSides Indy [2017]
+     - BSides Philly [2016 • [2017](https://www.youtube.com/playlist?list=PLNhlcxQZJSm9GphEZS70Gn5ZnpVnNxuLr)]
+     - BSides Augusta [2015 • 2016]
+     - BSides San Francisco [2015 • 2016]
+     - BSidesLV (Las Vegas) [2012 • 2013 • 2015]
+     - BSidesCincy (Cincinnati) [2015]
+     - BSides Boston [2015]
+     - BSides Columbus [2015]
+     - BSidesRI (Rhode Island) [[2013](https://www.youtube.com/playlist?list=PLNhlcxQZJSm-AlE2UhXKT7HZSn_4dht4j)]
+     - BSides Chicago [2014]
+     - BSidesDE [2013]
+     - DerbyCon [III: 2011 • IV: 2012 • V: 2013 • IV: 2014 • V: 2015 • VI: 2016 • [VII: 2017](https://www.youtube.com/playlist?list=PLNhlcxQZJSm-PKUZTYe1C94ymf0omysM3)]
+     - Converge [2016 • 2017]
+     - GrrCon [2015 • 2016 • 2017]
+     - ANYCon [2017]
+     - CircleCityCon [2014 • 2015 • 2016 • 2017]
+     - ShowMeCon [2015 • 2016 • 2017]
+     - NolaCon [2016 • 2017]
+     - AIDE [2015 • 2017]
+     - CypherCon [1.0: 2016 • 2.0: 2017]
+     - BloomCon [2017]
+     - PhreakNIC [[XII: 2008](https://www.youtube.com/playlist?list=PLNhlcxQZJSm8yLFD7pNREfYnSS8lbPnfw)]
+     - HouSecCon [#6: 2015]
+     - ShmooCon [Firetalks: 2015]
+     - DEFCON [Wireless Village: 2014]
+     - OISF [[2015](https://www.youtube.com/playlist?list=PLNhlcxQZJSm8rIDqO-i5-88w86qNB9Htq)]
+     - SecureWV/Hack3rcon [VI: 2015 • VII: 2016 • [VIII: 2017](https://www.youtube.com/playlist?list=PLNhlcxQZJSm9M-p1mD5BsmreKmQjziOYF)]
+     - Louisville Infosec [2013 • 2015 • 2016 • 2017]
+  0. [Ministraitor's channel](https://www.youtube.com/channel/UCI6B0zYvK-7FdM0Vgh3v3Tg/playlists) `[Kinda like a European version of Irongeek]`
+    - hack.lu [2016 • 2017]
+    - eth0 [Winter 2017]
+    - MISP Summit [2016 • 2017]
+    - OWASP meetup
+  0. **[PhreakNIC](https://www.youtube.com/user/phreaknicstaff/playlists):** [VII: 2003](https://www.youtube.com/playlist?list=PL6DADD0B6A5496F34) • [VIII: 2004](https://www.youtube.com/playlist?list=PL915F13FB05A3D058) • [IX: 2005](https://www.youtube.com/playlist?list=PL86C73320BDD727EB) • [X: 2006](https://www.youtube.com/playlist?list=PL1D388FCC3E7AEB6E) • [XI: 2007](https://www.youtube.com/playlist?list=PL9736470F92E36F9F) • [XVI: 2012](https://www.youtube.com/playlist?list=PL99hCfcp7JSzRCb0VUGubJZC7fYZIxd64) • [XVII: 2013](https://www.youtube.com/playlist?list=PL99hCfcp7JSyEMWTxKGCfCWkFhYWaNg7Y) • [XVIII: 2014](https://www.youtube.com/playlist?list=PL99hCfcp7JSw8-BWH8rVRaGW_DF67jKId) • [IXX: 2015](https://www.youtube.com/playlist?list=PL99hCfcp7JSz43sSIWmwPWr_UopswTlnQ) • [XX: 2016](https://www.youtube.com/playlist?list=PL99hCfcp7JSzkTWttfdH0T1tu1y8Pqg4Y) • [XXI: 2017](https://www.youtube.com/playlist?list=PL99hCfcp7JSwCM8cHUhHGpoMdFPdiZ6MT) _(cf. Irongeek's channel PhreakNIC XII [2008])_
   0. [Hacktivity](https://www.youtube.com/user/hacktivity/playlists)
-  0. [S4](https://www.youtube.com/channel/UC5MdLu7ji_eyGiTfigk75lQ) (ICS)
+  0. [S4](https://www.youtube.com/channel/UC5MdLu7ji_eyGiTfigk75lQ) `[ICS]`
   0. [ZeroNights](https://www.youtube.com/channel/UCtQ0fPmP4fCGBkYWMxnjh6A/playlists)
   0. [REcon](https://www.youtube.com/user/ekse0x/playlists)
   0. [BruCON](https://www.youtube.com/user/brucontalks/playlists)
   0. [Hack in the Box (HITB)](https://www.youtube.com/user/hitbsecconf/playlists)
-  0. [SANS DFIR](https://www.youtube.com/user/robtlee73) (DFIR + threat hunting + threat intel)
-  0. [SANS Pentesting](https://www.youtube.com/channel/UCP28F4uf9s2V1_SQwnJST_A) (penetration testing)
-  0. [SANS ISC](https://www.youtube.com/channel/UCfbOsqPmWg1H_34hTjKEW2A) (netsec + nsm)
+  0. [SANS DFIR](https://www.youtube.com/user/robtlee73) `[DFIR + threat hunting + threat intel]`
+  0. [SANS Pentesting](https://www.youtube.com/channel/UCP28F4uf9s2V1_SQwnJST_A) `[penetration testing]`
+  0. [SANS ISC](https://www.youtube.com/channel/UCfbOsqPmWg1H_34hTjKEW2A) `[netsec + nsm]`
   0. [SHA2017](https://www.youtube.com/channel/UCHmPMdU0O9P_W6I1hNyvBIQ)
   0. SAINTcon [[playlists](https://www.youtube.com/channel/UCMhbHwZWv_YHzGfFk4A5jDA/playlists) & [videos](https://www.youtube.com/channel/UCxJyF3XQlzOzqBFluCEVv7w/videos)]
   0. [Toorcon](https://www.youtube.com/channel/UCnzjmL0xkTBYwFZD7agHGWw/playlists)
   0. [ekoparty](https://www.youtube.com/channel/UCiVNwNkoMapaeyr9o6XEonA)
-  0. [Real World Crypto](https://www.youtube.com/channel/UCQiIRDBmp3pfTdRJ99EeDEw) (cryptography)
-  0. [SecKC](https://www.youtube.com/channel/UChiOlx_ROnjhAnmgjrY5Eyg)
-  0. [SecDSM](https://www.youtube.com/channel/UCoTLdfNePDQzvdEgIToLIUg/videos)
-  0. [CarolinaCon](https://www.youtube.com/channel/UCTY3Dpz68CyrjwRzqkE4sFw) (offsec)
+  0. [Real World Crypto](https://www.youtube.com/channel/UCQiIRDBmp3pfTdRJ99EeDEw) `[cryptography]`
+  0. [CarolinaCon](https://www.youtube.com/channel/UCTY3Dpz68CyrjwRzqkE4sFw) `[offsec]`
   0. [Wild West Hackin' Fest](https://www.youtube.com/channel/UCef0TWni8ghLcJphdmDBoxw)
   0. [Rooted Con](https://www.youtube.com/channel/UCeqrsQm33UBFHb50zorReHQ)
   0. [BalCCon](https://www.youtube.com/channel/UCoHypmu8rxlB5Axh5JxFZsA/playlists)
   0. [SEC-T](https://www.youtube.com/user/SECTDirector/playlists)
   0. [FSec](https://www.youtube.com/channel/UCkX2ZzX1rrC9e1Z0TaNYc9A)
-  0. [LayerOne](https://www.youtube.com/channel/UCYppsiYnhSHvwWmE2ePMxWg)
-  0. [TROOPERScon](https://www.youtube.com/channel/UCPY5aUREHmbDO4PtR6AYLfQ)
+  0. **[LayerOne](https://www.youtube.com/channel/UCYppsiYnhSHvwWmE2ePMxWg):** [2015](https://www.youtube.com/playlist?list=PLa-neBkALhDQtlF_PVI5MAkE04Qi-8z1z) • [2016](https://www.youtube.com/playlist?list=PLa-neBkALhDQravOAZpgb3W5vTADGw0j4) • [2017](https://www.youtube.com/playlist?list=PLa-neBkALhDRsQ51VdQHorzGMODqA_wiB)
+  0. **[TROOPERScon](https://www.youtube.com/channel/UCPY5aUREHmbDO4PtR6AYLfQ):** `[defense + management + SAP + IPv6 + NGI + embedded + offsec]`
   0. [BlackAlps CyberSecurityConference](https://www.youtube.com/channel/UCkCV_HJUkI8PsFrX4wpPX4A)
-  0. [x33fcon](https://www.youtube.com/playlist?list=PL7ZDZo2Xu3303oQ5iPItgS1wpLqu2-Fd4) (purple team)
+  0. [x33fcon](https://www.youtube.com/playlist?list=PL7ZDZo2Xu3303oQ5iPItgS1wpLqu2-Fd4) `[purple team]`
   0. [SkyDogCon](https://www.youtube.com/user/skydogcon/playlists)
-  0. [SecurityOnion Con](https://www.youtube.com/channel/UCNBFTyYCdjT5hnm7uW25vGQ) (NSM+IDS+IPS)
-  0. [Nullcon](https://www.youtube.com/user/nullcon/videos)
-  0. [KansasFest](https://www.youtube.com/user/KansasFest/videos) (retro gaming, some reverse engineering)
-  0. [Botconf.eu](https://www.youtube.com/user/BotConfTV/playlists) (malware analysis)
-  0. ShmooCon: [ShmooCon 2017](https://www.youtube.com/playlist?list=PL7-g2-mnZwSEtvlR2w_M2sefqGUT8HVmN) & [ShmooCon 2018](https://www.youtube.com/playlist?list=PL7-g2-mnZwSHx68p7dOJ-BvqapFMdEw_u)
+  0. [SecurityOnion Con](https://www.youtube.com/channel/UCNBFTyYCdjT5hnm7uW25vGQ) `[NSM+IDS+IPS]`
+  0. **[Nullcon Goa](https://www.youtube.com/user/nullcon/videos):** 2013 • 2014 • 2015 • 2016 • 2017 • 2018
+  0. [KansasFest](https://www.youtube.com/user/KansasFest/videos) `[retro gaming, some reverse engineering]`
+  0. [Botconf.eu](https://www.youtube.com/user/BotConfTV/playlists) `[malware analysis]`
+  0. **ShmooCon:** [ShmooCon 2017](https://www.youtube.com/playlist?list=PL7-g2-mnZwSEtvlR2w_M2sefqGUT8HVmN) & [ShmooCon 2018](https://www.youtube.com/playlist?list=PL7-g2-mnZwSHx68p7dOJ-BvqapFMdEw_u)
 
 ### BSides
 
@@ -58,84 +95,102 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   0. [BSidesSLC](https://www.youtube.com/channel/UCuJ0qrx-oNq2hxrUX5IYd9A/videos)
   0. [BSidesSF](https://www.youtube.com/channel/UCWemrSP6Aba171jXReCz_Qg/playlists)
   0. [BSidesPhilly](https://www.youtube.com/playlist?list=PL2T7DhHqMeE_26AJJicKnFQpSyXkNQ5ok)
-  0. BSides Tel Aviv: [BSidesTLV2017](https://www.youtube.com/playlist?list=PLNiWLB_wsOg6ptHBKQaeAJY-A479CqjHL) & [BSidesTLV2016](https://www.youtube.com/playlist?list=PLNiWLB_wsOg4YPY6v76waeuTyWVAgo0Bx)
+  0. **BSides Tel Aviv:** [BSidesTLV2017](https://www.youtube.com/playlist?list=PLNiWLB_wsOg6ptHBKQaeAJY-A479CqjHL) & [BSidesTLV2016](https://www.youtube.com/playlist?list=PLNiWLB_wsOg4YPY6v76waeuTyWVAgo0Bx)
+  1. **BSidesLA/ShellCon:** [ShellCon 2017](https://www.youtube.com/playlist?list=PL7D3STHEa66R0nWbixrTo3O7haiMmA71T).
+  2. **BSidesCharm:** [2016](https://www.youtube.com/playlist?list=PL0YXeUocWA4NAGPmYdKNmQEh8H6iL_4Ik&disable_polymer=true)
+  3. **BSides Asheville:** [2014](https://www.youtube.com/watch?v=KIGhA4_7dtw) • 2015 ([Sat](https://www.youtube.com/watch?v=ma7PPDwvuTA), [Sun](https://www.youtube.com/watch?v=wVUQmy0QDUA)) • [2016](https://www.youtube.com/watch?v=PZWNEvdtvsY) • [2017](https://www.youtube.com/watch?v=3pLkR0OUyM8)
+
+### Meetups That Record Their Talks
+  0. [SecKC](https://www.youtube.com/channel/UChiOlx_ROnjhAnmgjrY5Eyg)
+  0. [SecDSM](https://www.youtube.com/channel/UCoTLdfNePDQzvdEgIToLIUg/videos)
+  1. Louisville ISSA Web Pentesting workshop [[2013](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_EWRL30vt3xHpJx-d08Qx_)] `[pentesting + appsec + bug bounty]`
+  2. Louisville Nmap workshop [[2014](https://www.youtube.com/playlist?list=PLNhlcxQZJSm9D37XW1SS-WBIpbk4NEgYI)] `[pentesting]`
 
 ## Other Multimedia
 ### Shows &/or Livestreams
-  0. @LiveOverflow's [livestream](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/playlists) (CTF + reverse engineering + exploit dev)
-  0. [vTriple livestream](https://www.twitch.tv/vtriple/videos/all) (DFIR & dev)
-  0. @TheColonial's [OJ/th3colon1al](https://www.youtube.com/c/OJReeves) (Metasploit + Meterpreter dev)
-  0. @gynvael Coldwind's [livestream](https://www.youtube.com/user/GynvaelEN) (CTF + reverse engineering)
-  0. @hedgeberg's [livestream](https://www.twitch.tv/hedgeberg/videos/all) (reverse engineering)
-  0.  @ktemkin's [KateTemkin livestream](https://www.youtube.com/channel/UCCpOO5-6C42Mde_a7zXUFEg/videos) (reverse engineering + hardware hacking)
-  0. @_r00k_'s [Rook](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA/videos) (CTF walkthroughs)
-  0. @MurmusCTF's [walkthroughs](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A) (CTF walkthroughs)
-  0. @IppSec's [walkthroughs](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) (CTF walkthroughs)
+  0. @LiveOverflow's [livestream](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/playlists) `[CTF + reverse engineering + exploit dev]`
+  0. @TheColonial's [OJ/th3colon1al](https://www.youtube.com/c/OJReeves) `[Metasploit, Meterpreter dev + exploit dev]`
+  0. @gynvael Coldwind's [livestream](https://www.youtube.com/user/GynvaelEN) `[CTF + reverse engineering]`
+  0. @hedgeberg's [livestream](https://www.twitch.tv/hedgeberg/videos/all) `[reverse engineering + hardware hacking + console hacking]`
+  0.  @ktemkin's [KateTemkin livestream](https://www.youtube.com/channel/UCCpOO5-6C42Mde_a7zXUFEg/videos) `[reverse engineering + hardware hacking]`
+  0. @\_r00k\_'s [Rook](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA/videos) `[CTF walkthroughs]`
+  0. @MurmusCTF's [walkthroughs](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A) `[CTF walkthroughs]`
+  0. @IppSec's [walkthroughs](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) `[CTF walkthroughs]`
   0. [MeshX93](https://www.youtube.com/user/MeshX93)
-  0. [webpwnized](https://www.youtube.com/user/webpwnized) (appsec, websec, netsec)
-  0. [Micah Elizabeth Scott](https://www.youtube.com/user/micahjd)
-  0. [John Hammond](https://www.youtube.com/user/RootOfTheNull)
+  0. [webpwnized](https://www.youtube.com/user/webpwnized) `[appsec, websec, netsec]`
+  0. Micah Elizabeth Scott's **@scanlime show**:  [YouTube](https://www.youtube.com/user/micahjd) • [Patreon](https://www.patreon.com/scanlime) `[reverse engineering + sundry]`
+  0. [John Hammond's YouTube channel](https://www.youtube.com/user/RootOfTheNull) `[CTF walkthroughs + programming tutorials]`
   0. [Cybersecurity Camp](https://www.youtube.com/channel/UCCm0tSE3YMifM93QjqsWRJA/playlists)
-  0. @Hak5's [tutorials](https://www.youtube.com/user/Hak5Darren/playlists) (basic skills + pentesting)
+  0. @Hak5's [tutorials](https://www.youtube.com/user/Hak5Darren/playlists) `[basic skills + pentesting]`
   0. [SecurityTube](https://www.youtube.com/user/TheSecurityTube/videos)
-  0. @DAkacki @da_667 @oscaron @benheise @Ajediday & @mzbat's [Rally Security](https://rallysecurity.com/) (weekly news breakdown)
-  0. @HECFBlog's [Forensic Lunch](https://www.youtube.com/user/LearnForensics) (DFIR)
-  0. @struppigel's [Malware Analysis for Hedgehogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A) (DFIR + malware analysis)
-  0. @hasherezade's [walkthroughs](https://www.youtube.com/channel/UCNWVswPNgn5kutPNa5sprkg/video) (malware analysis + reverse engineering)
-  0. [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg/videos) (malware analysis + reverse engineering)
-  0. @herrcore + @seanmw's [Open Analysis Labs #OpenAnalysisLive](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg/videos) (malware analysis + reverse engineering)
+  0. @DAkacki @da_667 @oscaron @benheise @Ajediday & @mzbat's [Rally Security](https://rallysecurity.com/) `[weekly news breakdown]`
+  0. @HECFBlog's [Forensic Lunch](https://www.youtube.com/user/LearnForensics) `[DFIR]`
+  1. [vTriple livestream](https://www.twitch.tv/vtriple/videos/all) `[DFIR & dev]`
+  0. @struppigel's [Malware Analysis for Hedgehogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A) `[DFIR + malware analysis]`
+  0. @hasherezade's [walkthroughs](https://www.youtube.com/channel/UCNWVswPNgn5kutPNa5sprkg/video) `[malware analysis + reverse engineering]`
+  0. [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg/videos) `[malware analysis + reverse engineering]`
+  0. @herrcore + @seanmw's [Open Analysis Labs #OpenAnalysisLive](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg/videos) `[malware analysis + reverse engineering]`
   0. [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
   0. [SDR intro with Michael Ossmann](https://www.youtube.com/playlist?list=PLVQhg1UYyzxUcv-bZnxOOA6pkoAB021d9)
-  0. [SANS Security Awareness](https://www.youtube.com/channel/UCS9bnBE8KUcTUDqUZ7PKMgw) (soft skills)
+  0. @SecureTheHuman's [SANS Security Awareness #SecAwareSummit](https://www.youtube.com/channel/UCS9bnBE8KUcTUDqUZ7PKMgw): [SecureTheHuman webcasts](https://www.youtube.com/playlist?list=PL_zMFkM-50Ua3tVVp-wORZyLuEps1hXu7) `[soft skills + security awareness]`
   0. [Big Brain Security](https://www.youtube.com/channel/UCAPQk1fH2A4pzYjwTCt5-dw/videos)
-  0. [Duo Tech Talks](https://www.youtube.com/watch?v=ynbD-U6KXLk&list=PLb_2WL99k5kE39uvcu7kE1simsWdIH3dp)
-  0. @BHinfoSecurity's [webinars](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A/videos) (pentesting)
-  0. @brompwnie's [livestreams](https://www.youtube.com/channel/UCqCZRfUpl2azw8ZfvCiOIKA/videos) (android hacking)
-  0. [ChiefRiver](https://www.youtube.com/channel/UClBQQRzLNKt9XSMe_GrVMEQ/videos)
-  0. [#nullconchat](https://twitter.com/hashtag/nullconchat?src=hash)
-  0. @thatsjet's [@DevSecOpsLIFE](https://www.youtube.com/channel/UCZl_YoLSrB-kwiDHNbq345A) (DevSecOps)
-  0. @424f424f, @dafthack, @ustayready, + @ralphte1's @CoinSecPodcast: [YouTube](https://www.youtube.com/channel/UC6TBToDmLkLBqOfOLQSa1Zg/videos) • [Spotify](https://open.spotify.com/show/555KV34Tk73wnpLnuDQ3MX)
+  0. @duosec's [DuoSec Talks](https://www.youtube.com/watch?v=ynbD-U6KXLk&list=PLb_2WL99k5kE39uvcu7kE1simsWdIH3dp)
+  0. @BHinfoSecurity's [webinars](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A/videos) `[pentesting]`
+  0. @brompwnie's [livestreams](https://www.youtube.com/channel/UCqCZRfUpl2azw8ZfvCiOIKA/videos) `[android hacking]`
+  0. [ChiefRiver](https://www.youtube.com/channel/UClBQQRzLNKt9XSMe_GrVMEQ/videos) videos `[pentesting + windows]`
+  0. [#nullconchat](https://twitter.com/hashtag/nullconchat?src=hash) `[live infosec-themed discussion on Twitter]`
+  0. @thatsjet's [@DevSecOpsLIFE](https://www.youtube.com/channel/UCZl_YoLSrB-kwiDHNbq345A) `[DevSecOps]`
+  0. @424f424f, @dafthack, @ustayready, + @ralphte1's **@CoinSecPodcast**: [YouTube](https://www.youtube.com/channel/UC6TBToDmLkLBqOfOLQSa1Zg/videos) • [Spotify](https://open.spotify.com/show/555KV34Tk73wnpLnuDQ3MX) `[cryptocurrency]`
   0. @dildog's [Noctem livestream](https://www.youtube.com/channel/UCk2a4T3_BaDsqHofyecgDGw/videos)
-  1. @FuzzySec's [Patreon livestream](https://www.patreon.com/FuzzySec) (red team, pentesting, exploit dev, general amazingness)
+  1. @FuzzySec's [Patreon livestream](https://www.patreon.com/FuzzySec) `[red team, pentesting, exploit dev, general amazingness]`
   2. [@TrustedSec TV](https://www.youtube.com/channel/UCRkiASOIDfCDJeB9xkJoMRg/videos)
-  
-----
+  3. Sam Bowne's [livestreamed infosec classes](https://www.youtube.com/user/sambowne/videos) `[Careers in Computer Networking • Ethical Hacking & Network Defense • CISSP prep • Securing Web Applications • Exploit Development]`
+  4. @samykamkar's [tutorials](https://www.youtube.com/user/s4myk/playlists)
+
+ 
+
  
 ### Podcasts
   0. Paul Asadoorian's [Security Weekly (@securityweekly) podcasts](https://www.youtube.com/user/SecurityWeeklyTV)
-  0. @chrissanders88's [Source Code](http://chrissanders.org/2017/03/introducing-source-code-podcast/) (interviews with infosec folks to learn how they got into infosec)
-  0. @maliciouslink & @lerg's [@Defensivesec podcast](http://www.defensivesecurity.org/listen)
-  0. @bryanbrake & @InfoSystir's [@BrakeSec podcast](http://www.brakeingsecurity.com/) (+ [YouTube](https://www.youtube.com/channel/UCZFjAqFb4A60M1TMa0t1KXw/videos) channel)
-  1. Patrick Gray (@riskybusiness)'s [Risky Business security podcast](https://risky.biz/)
-  0. @TheManyHatsClub's [weekly interviews with infosec folk](https://twitter.com/TheManyHatsClub) (livestream • podcast)
-  1. The [Southern Fried Security (@SFSPodcast)](http://www.southernfriedsecurity.com/) Podcast
+  0. @chrissanders88's [Source Code](http://chrissanders.org/2017/03/introducing-source-code-podcast/) `[interviews with infosec folks re: path into infosec]`
+  0. @maliciouslink & @lerg's [@Defensivesec podcast](http://www.defensivesecurity.org/listen) `[general]`
+  0. @bryanbrake & @InfoSystir's **@BrakeSec** podcast: [podcast](http://www.brakeingsecurity.com/) • [YouTube](https://www.youtube.com/channel/UCZFjAqFb4A60M1TMa0t1KXw/videos) `[general]`
+  0. Patrick Gray (@riskybusiness)'s [Risky Business security podcast](https://risky.biz/) `[general]`
+  0. @steved3's **#SaltedHash** podcast: [video](https://www.csoonline.com/video/series/8528/salted-hash) • [podcast](https://itunes.apple.com/us/podcast/id1322645833) _{from @csoonline}_
+  0. @TheManyHatsClub's **weekly interviews with infosec folk** ([livestream on Discord](https://themanyhats.club/calendar/) • [podcast](https://themanyhats.club/tag/recording/)) `[general]`
+  0. The [Southern Fried Security (@SFSPodcast)](http://www.southernfriedsecurity.com/) Podcast `[general]`
+  0.  @phillmoore's [This Week in 4n6](https://thisweekin4n6.com/) `[roundup of interesting DFIR items + podcast]`
+  0. @humanhackers's [The Social-Engineer Podcast #SEPodcast](https://www.social-engineer.org/category/podcast/) `[social engineering]`
   0. @wadebaker & @jayjacobs' [@cyentiainst Podcast](https://www.cyentia.com/podcast/)
-  0. @kyleshevlin's [@2ndCareerDevs](https://secondcareerdevs.com/about) [adjacent: devops + lateral]
-  0. @XenoPhage & AgentSixty6's [Iron Sysadmin Podcast (@ironsysadmin)](https://www.youtube.com/channel/UCsLgL5c-US8XWPuXHHszNzA/videos) [adjacent: sysad]
-  0. @gcluley & @caroletheriault's [@SmashinSecurity](https://www.smashingsecurity.com/) (weekly news breakdown)
+  0. @gcluley & @caroletheriault's [@SmashinSecurity](https://www.smashingsecurity.com/) `[weekly news breakdown]`
+  1. @XenoPhage & AgentSixty6's [Iron Sysadmin Podcast (@ironsysadmin)](https://www.youtube.com/channel/UCsLgL5c-US8XWPuXHHszNzA/videos) `[adjacent: sysad]`
+  0. @kyleshevlin's [@2ndCareerDevs](https://secondcareerdevs.com/about) `[adjacent: devops + lateral]`
   0. @7MinSec's [7 Minute Security podcast](https://7ms.us/)
-  0. @phillmoore's [This Week in 4n6](https://thisweekin4n6.com/) (roundup of interesting DFIR items + podcast)
-  0. @humanhackers's [The Social-Engineer Podcast #SEPodcast](https://www.social-engineer.org/category/podcast/) (social engineering)
   0. @PurpleSquadSec's [Purple Squad Security podcast](https://purplesquadsec.com/)
   1. The [Cyberwire (@thecyberwire)](https://www.thecyberwire.com/podcasts/) podcasts
-  0. [Darknet Diaries](https://darknetdiaries.com/)
-  0. @Jenny_Radcliffe's [#HumanFactor podcast](http://jennyradcliffe.com/the-deception-chronicles/) (social engineering)
-  0. @LawyerLiz's [#BuzzOffwithLawyerLiz](https://twitter.com/hashtag/BuzzOffwithLawyerLiz?src=hash) (law + policy + tech)
-  0. @TalosSecurity's [Beers with Talos podcast](https://www.talosintelligence.com/podcasts) (news, netsec)
-  0. @Sophos's [Naked Security Podcast](https://www.sophos.com/en-us/company/podcasts.aspx)
-  0. @embeddedfm's [Embedded](https://www.embedded.fm) (hardware hacking-ish)
+  0. [Darknet Diaries](https://darknetdiaries.com/) `[cybercrime]`
+  0. @Jenny_Radcliffe's [#HumanFactor podcast](http://jennyradcliffe.com/the-deception-chronicles/) `[social engineering]`
+  0. @LawyerLiz's [#BuzzOffwithLawyerLiz](https://twitter.com/hashtag/BuzzOffwithLawyerLiz?src=hash) `[law + policy + tech]`
+  0. @embeddedfm's [Embedded](https://www.embedded.fm) `[hardware hacking-ish]`
   0. @SGgrc's [SecurityNow](https://twit.tv/shows/security-now)
-  0. @BrianRexroad & @jclausing's [#ThreatTraq](https://itunes.apple.com/us/podcast/at-t-threattraq-security-for-security-pros/id443512410?mt=2)
-  0. @textfiles' [Jason Scott Talks His Way Out of It](https://www.youtube.com/channel/UCZM0q3tj_RstUAUM4ox3R3g/videos)
-  0. Michael Bazzell (@IntelTechniques)'s [Complete Privacy & Security Podcast](https://inteltechniques.com/podcast.html)
-  0. @edgeroute & @RobertHurlbut's [@AppSecPodcast](https://www.appsecpodcast.org/) (appsec)
-  1. IBM's [Security Intelligence Podcast](https://itunes.apple.com/us/podcast/security-intelligence-podcast/id1138354355?mt=2) (from IBM)
+  0. @textfiles' **Jason Scott Talks His Way Out of It** podcast: [YouTube](https://www.youtube.com/channel/UCZM0q3tj_RstUAUM4ox3R3g/videos) • [Patreon](https://www.patreon.com/textfiles)
+  0. Michael Bazzell (@IntelTechniques)'s [Complete Privacy & Security Podcast](https://inteltechniques.com/podcast.html) `[privacy + OSINT]`
+  0. @edgeroute & @RobertHurlbut's [@AppSecPodcast](https://www.appsecpodcast.org/) `[appsec]`
   2. @CSI_Podcast's [Cyber Security Interviews](https://cybersecurityinterviews.com/episodes/) podcast
   3. The [Security Ledger (@securityledger)](https://securityledger.com/category/podcasts/) podcast
-  4. The [Ask Mr. DNS Podcast](http://www.ask-mrdns.com/) (netsec)
-  5. @cingulus's [InSecurity Podcast](https://itunes.apple.com/us/podcast/insecurity/id1260714697?mt=2) (from @cylance)
-  6. @cybereason's [@MaliciousLife](https://www.cybereason.com/blog/cybereason-launches-malicious-life-podcast) Podcast
-  7. [@TrustedSec Security Podcast](https://www.trustedsec.com/category/trustedsec-security-podcast/)
+  4. The [Ask Mr. DNS Podcast](http://www.ask-mrdns.com/) `[netsec]`
+  0. @TalosSecurity's [Beers with Talos podcast](https://www.talosintelligence.com/podcasts) _(from @TalosSecurity)_ `[news, netsec]`
+  0. @Sophos's [Naked Security Podcast](https://www.sophos.com/en-us/company/podcasts.aspx) _{from @Sophos}_
+  0. @IBM's [Security Intelligence Podcast](https://itunes.apple.com/us/podcast/security-intelligence-podcast/id1138354355?mt=2) _{from @IBM}_
+  0. @BrianRexroad & @jclausing's [#ThreatTraq](https://itunes.apple.com/us/podcast/at-t-threattraq-security-for-security-pros/id443512410?mt=2) _{from @ATT}_
+  5. @cingulus's [InSecurity Podcast](https://itunes.apple.com/us/podcast/insecurity/id1260714697?mt=2) _{from @cylance}_
+  6. @cybereason's [@MaliciousLife Podcast](https://www.cybereason.com/blog/cybereason-launches-malicious-life-podcast) _{from @cybereason}_
+  7. [TrustedSec Security Podcast](https://www.trustedsec.com/category/trustedsec-security-podcast/) _{from @TrustedSec}_
+
+
+
+
+
 
 ## Practice Materials 
   0. @blackroomsec's [List of Hacking & CTF Challenge Sites - Updated February 2, 2018](http://www.blackroomsec.com/wp-content/uploads/List-of-Hacking-Sites.pdf)
@@ -151,7 +206,8 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   0. @Fox0x01's [ARM reverse engineering tutorials](https://azeria-labs.com/) (reverse engineering ARM)
   0. @malwareunicorn's [RE101 & RE102](https://securedorg.github.io/) (reverse engineering x86 + malware analysis intro)
   0. @malware_traffic's [malware traffic analysis exercises](https://malware-traffic-analysis.net/)
-  0. @FuzzySec's [exploit dev  tutorial](https://www.fuzzysecurity.com/tutorials.html)
+  0. @FuzzySec's [exploit dev tutorials](https://www.fuzzysecurity.com/tutorials.html)
+  1. [samsclass.info](https://samsclass.info/)
   0. [ROP Emporium](https://ropemporium.com/)
   0. [#DailyScriptlets](https://twitter.com/search?q=%23DailyScriptlet&src=typd)
   0. [CTFtime.org](https://ctftime.org/)
