@@ -3,6 +3,21 @@ The channels listed here will eventually be monitored by [@HackerTalkyTalk](http
 
 Feel free to add more to the list; this is pretty incomplete, but better than nothing for folks who are new. :)
 
+**UPDATE (2-19-2018):** Added a few other sections that aren't really relevant to @HackerTalkyTalk, but *are* useful for learners: **Complete & Utter Newbie Starting Resources**, **Practice Materials && Labs**, and **Workstation VMs.**
+
+#### Table of Contents
+  - Infosec/Hacker Conference Talk Recordings
+    - BSides
+    - Meetups That Record Their Talks
+  - Other AV Multimedia
+    - Shows &/or Livestreams
+    - Podcasts
+  - Complete & Utter Newbie Starting Resources
+  - Practice Materials && Labs
+  - Workstation VMs
+
+----
+
 ## Infosec/Hacker Conference Talk Recordings
   0. [3C/CCC](https://media.ccc.de/)
   0. [DEFCON](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
@@ -43,10 +58,10 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
      - SecureWV/Hack3rcon [VI: 2015 • VII: 2016 • [VIII: 2017](https://www.youtube.com/playlist?list=PLNhlcxQZJSm9M-p1mD5BsmreKmQjziOYF)]
      - Louisville Infosec [2013 • 2015 • 2016 • 2017]
   0. [Ministraitor's channel](https://www.youtube.com/channel/UCI6B0zYvK-7FdM0Vgh3v3Tg/playlists) `[Kinda like a European version of Irongeek]`
-    - hack.lu [2016 • 2017]
-    - eth0 [Winter 2017]
-    - MISP Summit [2016 • 2017]
-    - OWASP meetup
+     - hack.lu [2016 • 2017]
+     - eth0 [Winter 2017]
+     - MISP Summit [2016 • 2017]
+     - OWASP meetup
   0. **[PhreakNIC](https://www.youtube.com/user/phreaknicstaff/playlists):** [VII: 2003](https://www.youtube.com/playlist?list=PL6DADD0B6A5496F34) • [VIII: 2004](https://www.youtube.com/playlist?list=PL915F13FB05A3D058) • [IX: 2005](https://www.youtube.com/playlist?list=PL86C73320BDD727EB) • [X: 2006](https://www.youtube.com/playlist?list=PL1D388FCC3E7AEB6E) • [XI: 2007](https://www.youtube.com/playlist?list=PL9736470F92E36F9F) • [XVI: 2012](https://www.youtube.com/playlist?list=PL99hCfcp7JSzRCb0VUGubJZC7fYZIxd64) • [XVII: 2013](https://www.youtube.com/playlist?list=PL99hCfcp7JSyEMWTxKGCfCWkFhYWaNg7Y) • [XVIII: 2014](https://www.youtube.com/playlist?list=PL99hCfcp7JSw8-BWH8rVRaGW_DF67jKId) • [IXX: 2015](https://www.youtube.com/playlist?list=PL99hCfcp7JSz43sSIWmwPWr_UopswTlnQ) • [XX: 2016](https://www.youtube.com/playlist?list=PL99hCfcp7JSzkTWttfdH0T1tu1y8Pqg4Y) • [XXI: 2017](https://www.youtube.com/playlist?list=PL99hCfcp7JSwCM8cHUhHGpoMdFPdiZ6MT) _(cf. Irongeek's channel PhreakNIC XII [2008])_
   0. [Hacktivity](https://www.youtube.com/user/hacktivity/playlists)
   0. [S4](https://www.youtube.com/channel/UC5MdLu7ji_eyGiTfigk75lQ) `[ICS]`
@@ -79,8 +94,8 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   0. [Botconf.eu](https://www.youtube.com/user/BotConfTV/playlists) `[malware analysis]`
   0. **ShmooCon:** [ShmooCon 2017](https://www.youtube.com/playlist?list=PL7-g2-mnZwSEtvlR2w_M2sefqGUT8HVmN) & [ShmooCon 2018](https://www.youtube.com/playlist?list=PL7-g2-mnZwSHx68p7dOJ-BvqapFMdEw_u)
 
-### BSides
 
+### BSides
   0. [BSidesLV](https://www.youtube.com/channel/UCpNGmljppAJbTIA5Msms1Pw)
   0. [BSidesLisbon](https://www.youtube.com/channel/UC_M0dk4dvcBr_rFgi710D4Q/playlists)
   0. [BSidesRaleigh](https://www.youtube.com/watch?v=EpS-ks1vf9A&list=PLTOzjw9-RQ72F83cpmN73TlTqTLmIC73M)
@@ -100,26 +115,34 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   2. **BSidesCharm:** [2016](https://www.youtube.com/playlist?list=PL0YXeUocWA4NAGPmYdKNmQEh8H6iL_4Ik&disable_polymer=true)
   3. **BSides Asheville:** [2014](https://www.youtube.com/watch?v=KIGhA4_7dtw) • 2015 ([Sat](https://www.youtube.com/watch?v=ma7PPDwvuTA), [Sun](https://www.youtube.com/watch?v=wVUQmy0QDUA)) • [2016](https://www.youtube.com/watch?v=PZWNEvdtvsY) • [2017](https://www.youtube.com/watch?v=3pLkR0OUyM8)
 
+
 ### Meetups That Record Their Talks
   0. [SecKC](https://www.youtube.com/channel/UChiOlx_ROnjhAnmgjrY5Eyg)
   0. [SecDSM](https://www.youtube.com/channel/UCoTLdfNePDQzvdEgIToLIUg/videos)
   1. Louisville ISSA Web Pentesting workshop [[2013](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_EWRL30vt3xHpJx-d08Qx_)] `[pentesting + appsec + bug bounty]`
   2. Louisville Nmap workshop [[2014](https://www.youtube.com/playlist?list=PLNhlcxQZJSm9D37XW1SS-WBIpbk4NEgYI)] `[pentesting]`
+  3. To **explore infosec/hacker events near you** (& see talks in person &/or meet local infosec folk [we don't bite! usually!]), check out @nyxgeek's world map of security meetups at [hackermaps.org](http://hackermaps.org/). <3
 
-## Other Multimedia
+----
+
+----
+
+----
+
+## Other AV Multimedia
 ### Shows &/or Livestreams
   0. @LiveOverflow's [livestream](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/playlists) `[CTF + reverse engineering + exploit dev]`
-  0. @TheColonial's [OJ/th3colon1al](https://www.youtube.com/c/OJReeves) `[Metasploit, Meterpreter dev + exploit dev]`
+  0. @TheColonial's [OJ Reeves/th3colon1al livestream](https://www.youtube.com/c/OJReeves) `[Metasploit, Meterpreter dev + exploit dev]`
   0. @gynvael Coldwind's [livestream](https://www.youtube.com/user/GynvaelEN) `[CTF + reverse engineering]`
   0. @hedgeberg's [livestream](https://www.twitch.tv/hedgeberg/videos/all) `[reverse engineering + hardware hacking + console hacking]`
   0.  @ktemkin's [KateTemkin livestream](https://www.youtube.com/channel/UCCpOO5-6C42Mde_a7zXUFEg/videos) `[reverse engineering + hardware hacking]`
-  0. @\_r00k\_'s [Rook](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA/videos) `[CTF walkthroughs]`
+  0. @\_r00k\_'s [livestreams + walkthroughs](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA/videos) `[CTF walkthroughs]`
   0. @MurmusCTF's [walkthroughs](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A) `[CTF walkthroughs]`
   0. @IppSec's [walkthroughs](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) `[CTF walkthroughs]`
-  0. [MeshX93](https://www.youtube.com/user/MeshX93)
+  0. [MeshX93](https://www.youtube.com/user/MeshX93) `[walkthroughs]`
   0. [webpwnized](https://www.youtube.com/user/webpwnized) `[appsec, websec, netsec]`
   0. Micah Elizabeth Scott's **@scanlime show**:  [YouTube](https://www.youtube.com/user/micahjd) • [Patreon](https://www.patreon.com/scanlime) `[reverse engineering + sundry]`
-  0. [John Hammond's YouTube channel](https://www.youtube.com/user/RootOfTheNull) `[CTF walkthroughs + programming tutorials]`
+  0. John Hammond's [YouTube channel](https://www.youtube.com/user/RootOfTheNull) `[CTF walkthroughs + programming tutorials]`
   0. [Cybersecurity Camp](https://www.youtube.com/channel/UCCm0tSE3YMifM93QjqsWRJA/playlists)
   0. @Hak5's [tutorials](https://www.youtube.com/user/Hak5Darren/playlists) `[basic skills + pentesting]`
   0. [SecurityTube](https://www.youtube.com/user/TheSecurityTube/videos)
@@ -147,8 +170,7 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   3. Sam Bowne's [livestreamed infosec classes](https://www.youtube.com/user/sambowne/videos) `[Careers in Computer Networking • Ethical Hacking & Network Defense • CISSP prep • Securing Web Applications • Exploit Development]`
   4. @samykamkar's [tutorials](https://www.youtube.com/user/s4myk/playlists)
 
- 
-
+----
  
 ### Podcasts
   0. Paul Asadoorian's [Security Weekly (@securityweekly) podcasts](https://www.youtube.com/user/SecurityWeeklyTV)
@@ -187,29 +209,65 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   6. @cybereason's [@MaliciousLife Podcast](https://www.cybereason.com/blog/cybereason-launches-malicious-life-podcast) _{from @cybereason}_
   7. [TrustedSec Security Podcast](https://www.trustedsec.com/category/trustedsec-security-podcast/) _{from @TrustedSec}_
 
+----
 
+----
 
+----
 
+## Complete & Utter Newbie Starting Resources
+  0. **[A Non-Nerd's Guide to the Command Line](http://commandline.guide/#/)**
+  1. **@mpratland's [Terminus](http://www.mprat.org/Terminus)** `[super gentle introduction to using a CLI]`
+  1. **[explainshell.com](http://explainshell.com)** `[help break down common commands you don't understand]`
+  2. **OverTheWire's [Wargames](http://overthewire.org/wargames/)** `[beginning exercises for bash scripting, exploit dev, bug bounty-ish stuff...go through Bandit to get used to CLIs]`
+  2. **["The Art of the Command Line"](https://github.com/jlevy/the-art-of-command-line)**
+  3. **[What happens when...](https://github.com/alex/what-happens-when)** `[uses the example of searching Google to traverse different domains; common interview question]`
+  4. **[Stack Overflow: Helping One Million Developers Exit Vim](https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/)** `[so you will understand the Exiting Vim memes]`
 
+----
 
-## Practice Materials 
+----
+
+----
+
+## Practice Materials && Labs
   0. @blackroomsec's [List of Hacking & CTF Challenge Sites - Updated February 2, 2018](http://www.blackroomsec.com/wp-content/uploads/List-of-Hacking-Sites.pdf)
   0. @FSecure's [Cyber Security MOOC](https://cybersecuritybase.github.io/)
   0. @0xmchow's [COMP 116: Introduction to Computer Security](https://github.com/tuftsdev/DefenseAgainstTheDarkArts/)
-  0. @chrissanders88's [The Cuckoo's Egg Decompiled](http://chrissanders.org/cuckoosegg/) [intro to SOC]
-  0. JPCERT/CC's [catalogue of DFIR artifacts left by common attack tools](https://jpcertcc.github.io/ToolAnalysisResultSheet/)
-  0. [HackTheBox.eu](https://www.hackthebox.eu/)
-  0. OverTheWire's [Wargames](http://overthewire.org/wargames/)
-  0. @Hacker0x01 & @daeken's [Hacker101.com](https://www.hacker101.com/)
-  0. @OWASP's [collection of vulnerable web apps](https://github.com/OWASP/OWASP-VWAD)
-  0. @ProjectHoneynet [challenge archive](https://www.honeynet.org/challenges) (DFIR)
-  0. @Fox0x01's [ARM reverse engineering tutorials](https://azeria-labs.com/) (reverse engineering ARM)
-  0. @malwareunicorn's [RE101 & RE102](https://securedorg.github.io/) (reverse engineering x86 + malware analysis intro)
-  0. @malware_traffic's [malware traffic analysis exercises](https://malware-traffic-analysis.net/)
-  0. @FuzzySec's [exploit dev tutorials](https://www.fuzzysecurity.com/tutorials.html)
-  1. [samsclass.info](https://samsclass.info/)
-  0. [ROP Emporium](https://ropemporium.com/)
-  0. [#DailyScriptlets](https://twitter.com/search?q=%23DailyScriptlet&src=typd)
-  0. [CTFtime.org](https://ctftime.org/)
+  0. Rensselaer Polytechnic Institute's @RPISEC [CSCI 4968: Modern Binary Exploitation](https://github.com/RPISEC/MBE) • [CSCI 4976: Malware Analysis](https://github.com/RPISEC/Malware) `[exploit dev • malware analysis]`
+  0. **Get some "help desk"-esque experience online & learn beginning malware triage/analysis for free:** @BleepinComputer's [Malware Removal Training Program](https://www.bleepingcomputer.com/forums/t/532535/malware-removal-training-program/)`[malware analysis]`
+  0. @chrissanders88's [The Cuckoo's Egg Decompiled](http://chrissanders.org/cuckoosegg/) `[intro to SOC • NSM • DFIR]`
+  0. JPCERT/CC's [catalogue of DFIR artifacts left by common attack tools](https://jpcertcc.github.io/ToolAnalysisResultSheet/) `[threat hunting • DFIR]`
+  0. [HackTheBox.eu](https://www.hackthebox.eu/) `[mostly pentesting • red team, but a few DFIR challenges too]`
+  0. @daeken's [Hacker101.com](https://www.hacker101.com/) `[bug bounty • websec • appsec • pentesting • netsec]` _{from @Hacker0x01}_
+  0. @OWASP's [collection of vulnerable web apps](https://github.com/OWASP/OWASP-VWAD) `[bug bounty • pentesting • websec • appsec • netsec]`
+  0. [Damn Vulnerable Web App (DVWA) VM](http://dvwa.co.uk/) `[bug bounty • appsec]`
+  0. @b1ack0wl's [Damn Vulnerable Router](https://github.com/b1ack0wl/DVRF) `[embedded • exploit dev • pentesting]`
+  0. @ProjectHoneynet [challenge archive](https://www.honeynet.org/challenges) `[DFIR]`
+  0. @Fox0x01's [ARM reverse engineering tutorials](https://azeria-labs.com/) `[reverse engineering (ARM)]`
+  0. @malwareunicorn's [RE101 & RE102](https://securedorg.github.io/) `[reverse engineering (x86) + malware analysis intro]`
+  0. @malware_traffic's [malware traffic analysis exercises](https://malware-traffic-analysis.net/) `[network forensics]`
+  0. @FuzzySec's [exploit dev tutorials](https://www.fuzzysecurity.com/tutorials.html) `[exploit dev • pentesting • red team]`
+  0. @abatchy17's [Windows Kernel Exploitation tutorial series + Vulnhub walkthroughs](http://www.abatchy.com/tutorials) `[exploit dev • red team]`
+  0. @sambowne's [samsclass.info](https://samsclass.info/)
+  1. @bellis1000's [Exploit Challenges](https://github.com/Billy-Ellis/Exploit-Challenges) `[exploit dev]`
+  0. [ROP Emporium](https://ropemporium.com/) `[exploit dev]`
+  0. @g0tmi1k's [@VulnHub vulnerable VM repository](https://www.vulnhub.com/) + [walkthroughs](https://blog.g0tmi1k.com/) `[pentesting • red team • exploit dev • bug bounty]`
+  1. [exploit-exercises.com](https://exploit-exercises.com/) `[exploit dev]`
+  0. [GNS3](https://www.gns3.com/) `[neteng + netsec — you'll need to track down firmware images, though]`
+  0. [#DailyScriptlets](https://twitter.com/search?q=%23DailyScriptlet&src=typd) `[practice malware analysis • DFIR]`
+  0. [CTFtime.org](https://ctftime.org/) `[find currently scheduled CTFs]`
+  1. @Magoo's [Incident Response tabletop scenarios (@badthingsdaily)](https://twitter.com/badthingsdaily) `[DFIR • incident response • blue team]`
+  2. [Hacking Printers wiki](http://hacking-printers.net/) `[pentesting]`
+  3. Want to build your own virtual homelab to practice in? GOOD. Go buy @da_667's Big Black Tome, _[Building Virtual Machine Labs: A Hands-On Guide](https://www.amazon.com/Building-Virtual-Machine-Labs-Hands-ebook/dp/B071G4SCB4/)_.
 
-**MEETUPS**, which sometimes have talks, and usually have awesome people to talk to: @nyxgeek's http://hackermaps.org/
+## Workstation VMs (Virtual Machines)
+  0. @SANS' [SIFT Workstation VM](https://digital-forensics.sans.org/community/downloads) `[DFIR Linux (Ubuntu) distro]`
+  0. @SANS' [Remnux Workstation VM](https://remnux.org/) `[malware analysis • reverse engineering Linux (Ubuntu) distro]`
+  0. @IntelTechniques' [Buscador VM](https://inteltechniques.com/buscador/index.html) `[OSINT+RECON Linux (Ubuntu) distro]`
+  0. @SecurityOnion's [SecurityOnion VM](https://github.com/Security-Onion-Solutions/security-onion/wiki/IntroductionToSecurityOnion) `[NSM+IDS+IPS • netsec Linux (Ubuntu) distro]`
+  0. @offsectraining's [Kali VM (@kalilinux)](https://www.kali.org/) `[offensive security • pentesting Linux distro]`
+  0. @Zero_ChaosX's [Pentoo VM (@pentoo_linux)](http://www.pentoo.ch/) `[wireless+SDR+RF Linux (Gentoo) distro]`
+  0. @ParrotSec's [Parrot Security OS VM](https://www.parrotsec.org/) `[pentesting • DFIR Linux (Debian) distro]`
+  4. @rootkovska's [@QubesOS](https://www.qubes-os.org/)
+  5. @ShadowDXS's [guide to installing Arch Linux](https://shadowdxs.com/2017/11/05/newcomers-guide-to-installing-arch-linux-with-full-disk-encryption/)
