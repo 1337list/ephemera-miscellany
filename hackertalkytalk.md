@@ -358,6 +358,7 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   1. @XenoKovah & co's [introductory infosec classes](http://opensecuritytraining.info/Training.html) `[29 classes with videos; 63 days of open source class materials—many domains]`
   0. **Get some "help desk"-esque experience online & learn beginning malware triage/analysis for free:** @BleepinComputer's [Malware Removal Training Program](https://www.bleepingcomputer.com/forums/t/532535/malware-removal-training-program/)`[malware analysis]`
   0. @chrissanders88's [The Cuckoo's Egg Decompiled](http://chrissanders.org/cuckoosegg/) `[intro to SOC • NSM • DFIR]`
+  0. @bartblaze's [Introduction to Malware Analysis, Threat Intelligence, & Reverse Engineering](https://github.com/bartblaze/MaTiRe) `[malware analysis!!! • threat intelligence • reverse engineering]`
   0. JPCERT/CC's [catalogue of DFIR artifacts left by common attack tools](https://jpcertcc.github.io/ToolAnalysisResultSheet/) `[threat hunting • DFIR]`
   0. [HackTheBox.eu](https://www.hackthebox.eu/) `[mostly pentesting • red team, but a few DFIR challenges too]`
   0. @daeken's [Hacker101.com](https://www.hacker101.com/) `[bug bounty • websec • appsec • pentesting • netsec]` _{from @Hacker0x01}_
@@ -365,7 +366,7 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   0. [Damn Vulnerable Web App (DVWA) VM](http://dvwa.co.uk/) `[bug bounty • appsec]`
   0. @b1ack0wl's [Damn Vulnerable Router](https://github.com/b1ack0wl/DVRF) `[embedded • exploit dev • pentesting]`
   0. @ProjectHoneynet [challenge archive](https://www.honeynet.org/challenges) `[DFIR]`
-  0. @Fox0x01's [ARM reverse engineering tutorials](https://azeria-labs.com/) `[reverse engineering (ARM)]`
+  0. @Fox0x01's [ARM reverse engineering tutorials](https://azeria-labs.com/) & [ARM assembly introduction](https://twitter.com/Fox0x01/status/950014190781128704) `[reverse engineering (ARM)]`
   0. @malwareunicorn's [RE101 & RE102](https://securedorg.github.io/) `[reverse engineering (x86) + malware analysis intro]`
   0. @malware_traffic's [malware traffic analysis exercises](https://malware-traffic-analysis.net/) `[network forensics]`
   0. @FuzzySec's [exploit dev tutorials](https://www.fuzzysecurity.com/tutorials.html) `[exploit dev • pentesting • red team]`
@@ -375,6 +376,7 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   0. [ROP Emporium](https://ropemporium.com/) `[exploit dev]`
   0. @g0tmi1k's [@VulnHub, a vulnerable VM repository](https://www.vulnhub.com/) + [walkthroughs](https://blog.g0tmi1k.com/) `[pentesting • red team • exploit dev • bug bounty]`
   1. [exploit-exercises.com](https://exploit-exercises.com/) `[exploit dev]`
+  0. **[root-me.org](https://www.root-me.org/?lang=en)** `[exploit dev • etc]`
   0. [GNS3](https://www.gns3.com/) `[neteng + netsec — you'll need to track down firmware images, though]`
   0. [#DailyScriptlets](https://twitter.com/search?q=%23DailyScriptlet&src=typd) `[practice malware analysis • DFIR]`
   0. @CTFtime's [CTFtime.org](https://ctftime.org/) `[find currently scheduled CTFs]`
