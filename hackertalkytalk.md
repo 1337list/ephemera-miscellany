@@ -10,17 +10,17 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
 >**UPDATE (2-19-2018):** Added a few other sections that aren't really relevant to [@HackerTalkyTalk](https://twitter.com/hackertalkytalk), but *are* useful for learners: **Complete & Utter Newbie Starting Resources**, **Practice Materials && Labs**, and **Workstation VMs.**
 
 #### Table of Contents
-  - [Infosec/Hacker Conference Talk Recordings](#infosechacker-conference-talk-recordings) [105 conferences]
-    - [Infosec&&Hacker Cons](#infosechackercons) [63]
-    - [BSides](#bsides) [42]
+  - [Infosec/Hacker Conference Talk Recordings](#infosechacker-conference-talk-recordings) [127 conferences]
+    - [Infosec&&Hacker Cons](#infosechackercons) [84]
+    - [BSides](#bsides) [43]
     - [Meetups That Record Their Talks](#meetups-that-record-their-talks) [2]
   - [Other Audiovisual Multimedia](#other-audiovisual-multimedia) 
     - [Shows &/or Livestreams](#shows-or-livestreams) [40]
     - [Podcasts](#podcasts) [86]
-  - [Playgrounds!: Practice Materials && Labs](#playgrounds-practice-materials-labs) [31]
+  - [Playgrounds!: Practice Materials && Labs](#playgrounds-practice-materials--labs-foss) [31]
   - [Workstation VMs](#workstation-vms-virtual-machines) [9]
   - [Introductory Resources for the Complete Newbie](#introductory-resources-for-the-complete-newbie) [7]
-  - [Hacker History & Culture](#hacker-history-culture) [13]
+  - [Hacker History & Culture](#hacker-history--culture) [13]
 
 ----
 
@@ -94,7 +94,8 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   0. [SANS DFIR](https://www.youtube.com/user/robtlee73) `[DFIR + threat hunting + threat intel]`
   0. [SANS Pentesting](https://www.youtube.com/channel/UCP28F4uf9s2V1_SQwnJST_A) `[penetration testing]`
   0. [SANS ISC](https://www.youtube.com/channel/UCfbOsqPmWg1H_34hTjKEW2A) `[netsec + nsm]`
-  0. [SHA2017](https://www.youtube.com/channel/UCHmPMdU0O9P_W6I1hNyvBIQ)
+  0. **[GHP1989](https://en.wikipedia.org/wiki/Galactic_Hacker_Party) • [HEU1993](https://nl.wikipedia.org/wiki/Hacking_at_the_End_of_the_Universe) • [HIP1997](https://nl.wikipedia.org/wiki/Hacking_in_Progress) • [HAL2001](https://en.wikipedia.org/wiki/Hackers_at_Large) • [WTH2005](https://en.wikipedia.org/wiki/What_the_Hack) • [HAR2009](https://en.wikipedia.org/wiki/Hacking_at_Random) • [OHM2013](https://ohm2013.org/):** _[...do recordings exist...?]_
+  1. **[SHA2017](https://sha2017.org/):** [[YouTube](https://www.youtube.com/playlist?list=PLnOI9rJWBVjE_xz7uGH4QKLiU5X0A7fjv) [channel](https://www.youtube.com/channel/UCHmPMdU0O9P_W6I1hNyvBIQ/playlists) • [media.ccc.de](https://media.ccc.de/c/SHA2017)]
   0. SAINTcon [[playlists](https://www.youtube.com/channel/UCMhbHwZWv_YHzGfFk4A5jDA/playlists) & [videos](https://www.youtube.com/channel/UCxJyF3XQlzOzqBFluCEVv7w/videos)]
   0. [Toorcon](https://www.youtube.com/channel/UCnzjmL0xkTBYwFZD7agHGWw/playlists)
   0. [ekoparty](https://www.youtube.com/channel/UCiVNwNkoMapaeyr9o6XEonA)
@@ -119,6 +120,27 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   2. **BlueHat IL (Israel):** [[2017](https://www.youtube.com/results?search_query=%22bluehat+IL+2017%22) • [2018](https://www.youtube.com/results?search_query=%22bluehat+IL+2018%22)]  _(no official playlist, but all on [this YouTube acct](https://www.youtube.com/user/microsoftrndIsrael))_
   3. **Infiltrate:** [[2011](https://vimeo.com/album/3912706) _inc_ • 2012 • [2013](https://vimeo.com/album/3385064) _inc_ • [2014](https://vimeo.com/album/3385058) • [2015](https://vimeo.com/album/3416096) • [2016](https://vimeo.com/album/4124239) • [2017](https://vimeo.com/album/4562410)]
   4. **Hackers On Planet Earth (HOPE):** [[1994](https://archive.org/details/hopevideo) • [1997](https://archive.org/details/beyondhopevideo) • [2000](https://archive.org/details/h2kvideo) • [2002](https://archive.org/details/h2k2video) • [V: 2004](https://archive.org/details/fifthhopevideo) • [IX: 2012](https://archive.org/details/hopeninevideo) • [X: 2013](https://archive.org/details/HopeX)]
+  5. **[Code Blue](https://www.youtube.com/channel/UCzTSi1GPLHb_DTlPvx2JnTQ) (@codeblue_jp):** [[2013](https://www.youtube.com/playlist?list=PL-XyPQsyOrNFzTh7UGhzaRw5s3634z0YZ) • [2014](https://www.youtube.com/playlist?list=PL-XyPQsyOrNH6yjMad_XNH4Bo-I133jag) • [2015](https://www.youtube.com/playlist?list=PL-XyPQsyOrNEoJ4xC4Q5OY24Y5I-lUTRz) • [2016](https://www.youtube.com/playlist?list=PL-XyPQsyOrNF-6sU6RrbvmQ7deNw8jF-b) • [2017](https://www.youtube.com/playlist?list=PL-XyPQsyOrNEp21Z5NchDLFMf2IVWoHTq)]
+  1. **HackerHotel:** [[2015](http://hackerhotel.sigio.nl/2015/videos.html) • [2016](http://hackerhotel.sigio.nl/2016/) • [2018](http://hackerhotel.sigio.nl/2018/) ([livestream](https://www.youtube.com/user/markfoobar/videos))] _(needs to be separated into playlists)_
+  2. **NLUUG:** [[2015 • 2017](https://www.youtube.com/user/markfoobar/videos?flow=grid&view=0&sort=da)] _(needs to be separated into playlists)_
+  3. **eth0:winter** [2014 ([wiki](https://wiki.eth0.nl/index.php/Eth0:2014_winter_talks)) • 2015 ([wiki](https://wiki.eth0.nl/index.php/Eth0:2015_winter_talks)) • [2016](https://www.youtube.com/user/markfoobar/videos?flow=grid&view=0&sort=da) ([wiki](https://wiki.eth0.nl/index.php/Eth0:2016_winter_talks)) • 2017 ([wiki](https://wiki.eth0.nl/index.php/Eth0:2017_winter_talks))]
+  4. **Electromagnetic Field (@emfcamp):** [[2014](https://www.youtube.com/playlist?list=PL1Hr6VkuONaHy8EZtLIXIMZQ858315pmt) • [2016](https://www.youtube.com/playlist?list=PL1Hr6VkuONaHIKlU5hqVU28jGyK6qAfjX)]
+  4.  **Black Hat (Europe):** [[2014](https://www.youtube.com/playlist?list=PLH15HpR5qRsV5pwkY4cpDpCyKKz_HpGbp) • [2015](https://www.youtube.com/playlist?list=PLH15HpR5qRsVd9jdTWUB5s16fmr2VCQyS) • [2016](https://www.youtube.com/playlist?list=PLH15HpR5qRsXcnfTOLOA3yYSd0CmYwOHS) • [2017](https://www.youtube.com/playlist?list=PLH15HpR5qRsXtpLirwYHPWyqcEFPbr-uB)]
+  5. **Black Hat (USA):** [[2013](https://www.youtube.com/playlist?list=PLH15HpR5qRsUtTv7IQKftKGOcRLGtwuoF) • [2014](https://www.youtube.com/playlist?list=PLH15HpR5qRsUBgeytB_T4xnKzr4Iv3upj) • [2015](https://www.youtube.com/playlist?list=PLH15HpR5qRsXF78lrpWP2JKpPJs_AFnD7) • [2016](https://www.youtube.com/playlist?list=PLH15HpR5qRsXm0-rMacuWBxWcB2fmsmEw) • [2017](https://www.youtube.com/playlist?list=PLH15HpR5qRsUyGhBVRDKGrHyQC5G4jQyd)]
+  6. **Black Hat (Asia):** [[2014](https://www.youtube.com/playlist?list=PLH15HpR5qRsVBA1YZ9xKtk_pu34S5swsO) • [2015](https://www.youtube.com/playlist?list=PLH15HpR5qRsVol8qseSSVe4XrtHcZO47E) • [2016](https://www.youtube.com/playlist?list=PLH15HpR5qRsWLd417eaJNy7CCEDyA53Pz) • [2017](https://www.youtube.com/playlist?list=PLH15HpR5qRsWx4qw9ZlgmisHOcKG4ZcRS)]
+  7. **r2con:** [[2017](https://www.youtube.com/playlist?list=PLjIhlLNy_Y9Oe-nfcPEpaki0_En5dhQ5S)]
+  8. **LevelUp:** [[2017](https://www.youtube.com/playlist?list=PLIK9nm3mu-S5InvR-myOS7hnae8w4EPFV)]
+  9. **[SteelCon](https://www.youtube.com/channel/UCK41FEbfdxa9iatNvvrqbtg/):** [[2014](https://www.youtube.com/playlist?list=PLmfJypsykTLVGqTWJMu4ybJPiew7PUkH2) • [2015](https://www.youtube.com/playlist?list=PLmfJypsykTLX9mDeChQ7fovybwYzQgr6j) • [2016](https://www.youtube.com/playlist?list=PLmfJypsykTLXdowhmaHaDJGlxmOBAGMYA) • [2017](https://www.youtube.com/playlist?list=PLmfJypsykTLWIg62DKE8EebU-2ZWIT-C6)]
+  10. **CanSecWest:** [[slides for 2000–2017](https://cansecwest.com/slides.html)] _[...do recordings exist...?]_
+  0. **PacSec:** [[slides for 2003–2017](https://pacsec.jp/pastevents.html)]  _[...do recordings exist...?]_
+  1. **FOSDEM:** [[2003](https://video.fosdem.org/2003/) • [2004](https://video.fosdem.org/2004/) • [2005](https://video.fosdem.org/2005/) • [2006](https://video.fosdem.org/2006/) • [2007](https://video.fosdem.org/2007/) • [2008](https://video.fosdem.org/2008/) • [2009](https://video.fosdem.org/2009/) • [2010](https://video.fosdem.org/2010/) • [2011](https://video.fosdem.org/2011/) • [2012](https://video.fosdem.org/2012/) • [2013](https://video.fosdem.org/2013/) • [2014](https://video.fosdem.org/2014/) • [2015](https://video.fosdem.org/2015/) • [2016](https://video.fosdem.org/2016/) • [2017](https://video.fosdem.org/2017/)]
+  2. **AppSecEU:** [[2014](https://www.youtube.com/playlist?list=PLpr-xdpM8wG_KHsxepT9o6trkqDELhr3_) • [2015](https://www.youtube.com/playlist?list=PLpr-xdpM8wG-ZTcHhFfAeBthNVZVEtkg9) • [2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG-Kf1_BOnT2LFZU8_SXfpKL) • [2017](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp)]
+  3. **AppSecUSA:** [[2013](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8ODR2zWs06JkMmlRiLyBXU) • [2014](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8jz9QpzQeLeB0914Ysq-Cl) • [2015](https://www.youtube.com/playlist?list=PLpr-xdpM8wG93dG_L9QKs0W1cD-esQEzU) • [2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8DPozMmcbwBjFn15RtC75N) • [2017](https://www.youtube.com/playlist?list=PLpr-xdpM8wG9emx73fEjX0Cn6VHruJ4-l)]
+  0. [OWASP](https://www.youtube.com/user/OWASPGLOBAL/playlists) **AppSec California:** [[2014](https://www.youtube.com/playlist?list=PLpr-xdpM8wG9lbJhvAOJrUaGXpZns7O0g) • [2015](https://www.youtube.com/playlist?list=PLpr-xdpM8wG-xWNB98Q2uLN7O8E91xJzK) • [2016](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8fNc1gwXz4SXKTRB4yZB5v) • [2017](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8pt2jJIOc_jOmd06v1FpMp)]
+  1. **[Hack in Paris](https://www.youtube.com/channel/UC7xJU9_oqw-vS6OJExS-2iA):** [[2011](https://www.youtube.com/playlist?list=PLaS1tu_LcHA8N0QODTZ6sqxbzFIJnTHiw) • [2012](https://www.youtube.com/playlist?list=PLaS1tu_LcHA-G7I9UgtI5K6hIG-LjuM9D) • [2013](https://www.youtube.com/playlist?list=PLaS1tu_LcHA9pYG-OhicZQHRh6e0xd0Ih) • [2014](https://www.youtube.com/playlist?list=PLaS1tu_LcHA-aTAG2uodAIhr7M6_UaeYi) • [2015](https://www.youtube.com/playlist?list=PLaS1tu_LcHA8bTfXOewi2qjk3sWjeqwMc) • [2016](https://www.youtube.com/playlist?list=PLaS1tu_LcHA8_SFeGTWkjaj7y2eZwHWD8) • [2017](https://www.youtube.com/playlist?list=PLaS1tu_LcHA8yOrGuyvBIJjEO87-vXQG2)]
+  0. **H.A.C.K Camp:::[CampZer0](https://camp.hsbp.org/2013/zer0/) (@campzer0):** [[2013](https://www.youtube.com/playlist?list=PLoApmOGyM5MXKJCU5NLFfPJmZSN9bIypP) ([slides](https://camp.hsbp.org/2013/zer0/talks.html))]
+  0. **H.A.C.K Camp:::Camp++:** [[2014](https://www.youtube.com/playlist?list=PLoApmOGyM5MV2nygh_BOlKSThRYF2c2eX) ([slides](https://camp.hsbp.org/2014/pp/schedule.html)) • [2015:0x7df](https://www.youtube.com/playlist?list=PLoApmOGyM5MUyJ27OhORn9eSsSbZd43c5) • [2016:0x7e0](https://www.youtube.com/playlist?list=PLoApmOGyM5MUuKgHOiL5ugfHhVdWcRQHi) • [2017:0x7e1](https://www.youtube.com/playlist?list=PLoApmOGyM5MXj5CRKZ9mlKlHaMFNLBHLv)]
+  1. **[NorthSec](https://www.youtube.com/channel/UCqVhMzTdQK5VAosAGkMtpJw/):** [[2015](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpQAa54H6PKkfX6A48ruzhh) • [2016](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpg-z0MkDrFrwMiiFMVr1yI) • [2017](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpv2An-RNhjuZSJ5fjY7ghe)]
 
 
 ### BSides
@@ -140,12 +162,12 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   1. **BSidesLA/ShellCon:** [ShellCon 2017](https://www.youtube.com/playlist?list=PL7D3STHEa66R0nWbixrTo3O7haiMmA71T).
   2. **BSidesCharm:** [[2016](https://www.youtube.com/playlist?list=PL0YXeUocWA4NAGPmYdKNmQEh8H6iL_4Ik&disable_polymer=true)] [irongeek: 2017]
   3. **BSides Asheville:** [2014](https://www.youtube.com/watch?v=KIGhA4_7dtw) • 2015 ([Sat](https://www.youtube.com/watch?v=ma7PPDwvuTA), [Sun](https://www.youtube.com/watch?v=wVUQmy0QDUA)) • [2016](https://www.youtube.com/watch?v=PZWNEvdtvsY) • [2017](https://www.youtube.com/watch?v=3pLkR0OUyM8)
-  4. **[BSidesCalgary](https://www.youtube.com/channel/UC_1TOuhgmjOcG2Ci0eR6vtQ/videos) (@bsides_calgary):** 2016 • 2017 _(FIXME: years need to be separated into playlists)_
+  4. **[BSidesCalgary](https://www.youtube.com/channel/UC_1TOuhgmjOcG2Ci0eR6vtQ/videos) (@bsides_calgary):** [2016 • 2017] _(FIXME: years need to be separated into playlists)_
   5. **BSidesNYC:** [[2018](http://isoc-ny.org/p2/bsidesnyc-2018-livestream)]
   0. **BSides Ljubljana (@BSidesLjubljana):** [[2016](https://archive.org/details/BSidesLjubljana2016) • [2017](https://archive.org/details/BSidesLjubljana2017)]
   0. **BSides Hamburg (@HamburgSides):** [[2015](https://archive.org/details/BSidesHH2015) • [2016](https://archive.org/details/HamburgSides2016)]
   0. **BSides Hannover (@BSidesHN):** [[2016](https://archive.org/details/BSidesHannover2016) • [2017](https://archive.org/details/BSidesHannover2017)]
-  0. **BSides Belfast (@bsidesbelfast):** [[2016](https://archive.org/details/BSidesBelfast2016)]
+  0. **[BSides Belfast](https://www.youtube.com/channel/UCYH510kwMJpZjgRuAjKgWrA) (@bsidesbelfast):** [[2016](https://archive.org/details/BSidesBelfast2016) • [2017](https://www.youtube.com/playlist?list=PL2u9o6Q45lL6k5JoqFbM5cQajlT8x5lez)]
   0. **[BSides Munich](https://www.youtube.com/channel/UC43VEnrIe-4mb-gx_83TM_A) (@BSidesMunich):** [2017 ([YouTube](https://www.youtube.com/playlist?list=PL8N5HiRDvZ-dL4MElY5NUKmaqDmI7QfVy) | [archive.org](https://archive.org/details/BSidesMunich2017))]
   0. **[BSides Bordeaux](https://www.youtube.com/channel/UCnC84mznH_KnaObupSjsGfg/playlists) (@BSidesBDX):** [[2017](https://www.youtube.com/playlist?list=PLja4cqtcHDaUARob4MAFTKS9A7lg1rEnr)]
   0. **[BSides Luxembourg](https://www.youtube.com/channel/UC676wT_3Y8J4zHh2tjhx3Zw/playlists) (@BSidesLux):** [[2017](https://www.youtube.com/playlist?list=PLbugr5VvEOVhujXpq0pz0K9iZ9QK7etOv)]
@@ -164,6 +186,7 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   0. **BSides Columbus:** [irongeek: 2015]
   0. **BSidesRI (Rhode Island):** [[2013](https://www.youtube.com/playlist?list=PLNhlcxQZJSm-AlE2UhXKT7HZSn_4dht4j)]
   0. **BSides Chicago:** [irongeek: 2014]
+  1. **[BSides Leeds] (@BSidesLeeds):** [[2018](https://www.youtube.com/channel/UCdnz7EZERHqmluR8RC2Y8pA/videos)]
 
 ### Meetups That Record Their Talks
   0. [SecKC](https://www.youtube.com/channel/UChiOlx_ROnjhAnmgjrY5Eyg)
@@ -225,14 +248,14 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
  
 ### Podcasts
   0. **Paul Asadoorian's Security Weekly (@securityweekly @swfeeds) podcasts:** [[official website](https://securityweekly.com/shows/) • [YouTube](https://www.youtube.com/user/SecurityWeeklyTV) • infocon.org: [PaulDotCom Weekly](https://infocon.org/podcasts/PaulDotCom%20Weekly%20podcast/) && [Security Weekly](https://infocon.org/podcasts/Security%20Weekly/)]
-    0. **[Paul's Security Weekly](https://www.youtube.com/playlist?list=PLlPkFwQHxYE4atQRxwAsTux2PmOuWGgAA):** with @haxorthematrix @securityweekly @Carlos_Perez @jack_daniel @MrJeffMan @joff_thyer
-    0. **[Hack Naked News](https://www.youtube.com/playlist?list=PLlPkFwQHxYE4y0GomF9gD0Dm_YgCwFDPo)**: with @securityweekly @Jason_Wood
-    0. **[Enterprise Security Weekly](https://www.youtube.com/playlist?list=PLlPkFwQHxYE4j9Nxn8LO2vc2D89ZjEqmA):** with @securityweekly @strandjs
-    0. **[Business|Startup Security Weekly](https://www.youtube.com/playlist?list=PLlPkFwQHxYE4KNGXjbiHUtrx7-wQa-SXi):** with @securityweekly @catalyst
-    0. **[Secure Digital Life](https://www.youtube.com/playlist?list=PLlPkFwQHxYE6Fkc0B1nEt0rykFpLDitMP):** with @dougwhitephd @rbeauchemin `[newbie friendly • security ambassadoring]`
-    0. **[Tradecraft Security Weekly](https://www.youtube.com/playlist?list=PLlPkFwQHxYE7Yi5jtcSyCCr8pXxP1OEkZ):** 
-    0. **[Application Security Weekly](https://www.youtube.com/playlist?list=PLlPkFwQHxYE4Rzf18_huyTbphNxqu4gbZ):** with @securityweekly @andMYhacks
-    0. **[Interviews](https://www.youtube.com/playlist?list=PLlPkFwQHxYE4e-QuDGyVZzGKd3s6RiYaL)**
+      1. **[Paul's Security Weekly](https://www.youtube.com/playlist?list=PLlPkFwQHxYE4atQRxwAsTux2PmOuWGgAA):** with @haxorthematrix @securityweekly @Carlos_Perez @jack_daniel @MrJeffMan @joff_thyer
+      0. **[Hack Naked News](https://www.youtube.com/playlist?list=PLlPkFwQHxYE4y0GomF9gD0Dm_YgCwFDPo)**: with @securityweekly @Jason_Wood
+      0. **[Enterprise Security Weekly](https://www.youtube.com/playlist?list=PLlPkFwQHxYE4j9Nxn8LO2vc2D89ZjEqmA):** with @securityweekly @strandjs
+      0. **[Business|Startup Security Weekly](https://www.youtube.com/playlist?list=PLlPkFwQHxYE4KNGXjbiHUtrx7-wQa-SXi):** with @securityweekly @catalyst
+      0. **[Secure Digital Life](https://www.youtube.com/playlist?list=PLlPkFwQHxYE6Fkc0B1nEt0rykFpLDitMP):** with @dougwhitephd @rbeauchemin `[newbie friendly • security ambassadoring]`
+      0. **[Tradecraft Security Weekly](https://www.youtube.com/playlist?list=PLlPkFwQHxYE7Yi5jtcSyCCr8pXxP1OEkZ):** 
+      0. **[Application Security Weekly](https://www.youtube.com/playlist?list=PLlPkFwQHxYE4Rzf18_huyTbphNxqu4gbZ):** with @securityweekly @andMYhacks
+      0. **[Interviews](https://www.youtube.com/playlist?list=PLlPkFwQHxYE4e-QuDGyVZzGKd3s6RiYaL)**
   0. @chrissanders88's [Source Code](http://chrissanders.org/2017/03/introducing-source-code-podcast/) `[interviews with infosec folks re: path into infosec]`
   0. @maliciouslink & @lerg's **[Defensive Security](http://www.defensivesecurity.org/listen) (@Defensivesec) podcast:** `[general]`
   0. @bryanbrake & @InfoSystir's **@BrakeSec** podcast: [podcast](http://www.brakeingsecurity.com/) • [YouTube](https://www.youtube.com/channel/UCZFjAqFb4A60M1TMa0t1KXw/videos) `[general]`
@@ -280,30 +303,30 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   0. **The [Standard Deviant Security Podcast](https://tony-martinvegue.squarespace.com/the-standard-deviant-podcast/) (@standeviant):** [[Stitcher](https://www.stitcher.com/podcast/the-standard-deviant-podcast)]
   0. The **[In-Security Podcast](http://in-security.org/):** [[iTunes](https://itunes.apple.com/ca/podcast/in-security/id765190900?mt=2&ls=1) • [RSS](http://in-security.org/feed/podcast/)]
   0. **ISMG Network Podcasts:**
-     0. The **[Healthcare Information Security](https://itunes.apple.com/us/podcast/healthcare-information-security/id504642987?mt=2) Podcast**
-     0. The **[Careers Information Security](https://itunes.apple.com/us/podcast/careers-information-security/id504643111?mt=2) Podcast**
-     0. The **[Data Breach Today](https://itunes.apple.com/us/podcast/data-breach-today-podcast/id504643592?mt=2) Podcast**
-     0. The **[Banking Information Security](https://itunes.apple.com/us/podcast/banking-information-security/id504642809?mt=2) Podcast**
+      1. The **[Healthcare Information Security](https://itunes.apple.com/us/podcast/healthcare-information-security/id504642987?mt=2) Podcast**
+      0. The **[Careers Information Security](https://itunes.apple.com/us/podcast/careers-information-security/id504643111?mt=2) Podcast**
+      0. The **[Data Breach Today](https://itunes.apple.com/us/podcast/data-breach-today-podcast/id504643592?mt=2) Podcast**
+      0. The **[Banking Information Security](https://itunes.apple.com/us/podcast/banking-information-security/id504642809?mt=2) Podcast**
   0. **[infocon.org](https://infocon.org/podcasts/) has archives of several older podcasts:**
-   0. **[CERT.org podcast](https://infocon.org/podcasts/CERT.org%20Podcast/):** 2006–2014
-   0. **[CyberSpeak podcast](https://infocon.org/podcasts/CyberSpeak%20podcast/):** 2006–2013
-   0. **[Eurotrash Security podcast](https://infocon.org/podcasts/Eurotrash%20Security%20podcast/):** pre-2014
-   0. **[Exotic Liability podcast](https://infocon.org/podcasts/Exotic%20Liability%20podcast/):** pre-2010
-   0. **[Hacker Podcast Radio](https://infocon.org/podcasts/Hacker%20Podcast%20Radio/):** pre-2014
-   0. **[Security Management Podcast](https://infocon.org/podcasts/Security%20Management%20Podcast/):** pre-2014
-   0. **[Network Security Podcast podcast](https://infocon.org/podcasts/Network%20Security%20Podcast%20podcast/):** 2014
-   0. **[Finux Tech Whatever](https://infocon.org/podcasts/Finux%20Tech%20Whatever%20podcast/):** _(FIXME: files seem to be missing; anybody have an archive?)_
-   0. **[hacktv.org podcast](https://infocon.org/podcasts/hacktv.org%20podcast/):** _(FIXME: files seem to be missing; anybody have an archive?)_
-   0. **[Hacker News Network (HNN)](https://infocon.org/podcasts/Hacker%20News%20Network%20HNN/):** 
-      0. **[HHNCast:](https://infocon.org/podcasts/Hacker%20News%20Network%20HNN/Full%20Episodes/):** 2009–2011?
-      0. **[ToolTime](https://infocon.org/podcasts/Hacker%20News%20Network%20HNN/Tool%20Time/):** 2010-2011
-      0. **[Stack of Shame](https://infocon.org/podcasts/Hacker%20News%20Network%20HNN/Stack%20of%20Shame/):** 2010-2011
-     0. **[ConFu](https://infocon.org/podcasts/Hacker%20News%20Network%20HNN/ConFu/):** 2010-2011
-      0. **[Behind The Firewall](https://infocon.org/podcasts/Hacker%20News%20Network%20HNN/BehindTheFirewall/):** _(FIXME: only one clip; anybody have a complete archive?)_
-   0. **[Hak5](https://infocon.org/podcasts/Hak5/) (@Hak5):**
-      - **[ThreatWire](https://infocon.org/podcasts/Hak5/ThreatWire/):** 2015-2016
-      - **[HakTip + Metasploit Minute](https://infocon.org/podcasts/Hak5/HakTip%20and%20Metasploit%20Minute/)**
-      - **[Hak5](https://infocon.org/podcasts/Hak5/Hak5%20x265/):** _(seems to episodes from their YouTube show?)_
+     1. **[CERT.org podcast](https://infocon.org/podcasts/CERT.org%20Podcast/):** 2006–2014
+     0. **[CyberSpeak podcast](https://infocon.org/podcasts/CyberSpeak%20podcast/):** 2006–2013
+     0. **[Eurotrash Security podcast](https://infocon.org/podcasts/Eurotrash%20Security%20podcast/):** pre-2014
+     0. **[Exotic Liability podcast](https://infocon.org/podcasts/Exotic%20Liability%20podcast/):** pre-2010
+     0. **[Hacker Podcast Radio](https://infocon.org/podcasts/Hacker%20Podcast%20Radio/):** pre-2014
+     0. **[Security Management Podcast](https://infocon.org/podcasts/Security%20Management%20Podcast/):** pre-2014
+     0. **[Network Security Podcast podcast](https://infocon.org/podcasts/Network%20Security%20Podcast%20podcast/):** 2014
+     0. **[Finux Tech Whatever](https://infocon.org/podcasts/Finux%20Tech%20Whatever%20podcast/):** _(FIXME: files seem to be missing; anybody have an archive?)_
+     0. **[hacktv.org podcast](https://infocon.org/podcasts/hacktv.org%20podcast/):** _(FIXME: files seem to be missing; anybody have an archive?)_
+     0. **[Hacker News Network (HNN)](https://infocon.org/podcasts/Hacker%20News%20Network%20HNN/):** 
+         1. **[HHNCast:](https://infocon.org/podcasts/Hacker%20News%20Network%20HNN/Full%20Episodes/):** 2009–2011?
+         0. **[ToolTime](https://infocon.org/podcasts/Hacker%20News%20Network%20HNN/Tool%20Time/):** 2010-2011
+         0. **[Stack of Shame](https://infocon.org/podcasts/Hacker%20News%20Network%20HNN/Stack%20of%20Shame/):** 2010-2011
+         0. **[ConFu](https://infocon.org/podcasts/Hacker%20News%20Network%20HNN/ConFu/):** 2010-2011
+         0. **[Behind The Firewall](https://infocon.org/podcasts/Hacker%20News%20Network%20HNN/BehindTheFirewall/):** _(FIXME: only one clip; anybody have a complete archive?)_
+     0. **[Hak5](https://infocon.org/podcasts/Hak5/) (@Hak5):**
+         1. **[ThreatWire](https://infocon.org/podcasts/Hak5/ThreatWire/):** 2015-2016
+         0. **[HakTip + Metasploit Minute](https://infocon.org/podcasts/Hak5/HakTip%20and%20Metasploit%20Minute/)**
+         0. **[Hak5](https://infocon.org/podcasts/Hak5/Hak5%20x265/):** _(seems to episodes from their YouTube show?)_
 
 
 
@@ -409,7 +432,7 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   0. **[Phrack Magazine](http://www.phrack.org/)**
   0. **[Uninformed Magazine:](http://www.uninformed.org/?o=about) Informative Information for the Uninformed**
   0. **POC||GTFO: Proof of Concept or Get The Fuck Out!:** [download mirrors: [alchemistowl.org](https://www.alchemistowl.org/pocorgtfo/) • [greatscottgadgets](https://greatscottgadgets.com/pocorgtfo/) • [ludost.net](https://ludost.net/pocorgtfo/) • [github.com/filcab](https://github.com/filcab/pocorgtfo)]
-     _{Please note [this blogpost|contalk from @ESultanik](https://www.sultanik.com/blog/FilePolyglottery) that explains how you can play with several issues' polyglots. ;)}_
+     _{Please note [this blogpost|contalk](https://www.sultanik.com/blog/FilePolyglottery) from @ESultanik that explains how you can play with several issues' polyglots. ;)}_
   0. **Jason Scott (@textfiles)'s [textfiles.com](http://textfiles.com/)**
   0. **[OpenRCE.org articles](http://www.openrce.org/articles/)**
   0. **archive.org's [HyperCard Stacks](https://archive.org/details/hypercardstacks) archive**
