@@ -141,6 +141,7 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   0. **H.A.C.K Camp:::[CampZer0](https://camp.hsbp.org/2013/zer0/) (@campzer0):** [[2013](https://www.youtube.com/playlist?list=PLoApmOGyM5MXKJCU5NLFfPJmZSN9bIypP) ([slides](https://camp.hsbp.org/2013/zer0/talks.html))]
   0. **H.A.C.K Camp:::Camp++:** [[2014](https://www.youtube.com/playlist?list=PLoApmOGyM5MV2nygh_BOlKSThRYF2c2eX) ([slides](https://camp.hsbp.org/2014/pp/schedule.html)) • [2015:0x7df](https://www.youtube.com/playlist?list=PLoApmOGyM5MUyJ27OhORn9eSsSbZd43c5) • [2016:0x7e0](https://www.youtube.com/playlist?list=PLoApmOGyM5MUuKgHOiL5ugfHhVdWcRQHi) • [2017:0x7e1](https://www.youtube.com/playlist?list=PLoApmOGyM5MXj5CRKZ9mlKlHaMFNLBHLv)]
   1. **[NorthSec](https://www.youtube.com/channel/UCqVhMzTdQK5VAosAGkMtpJw/):** [[2015](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpQAa54H6PKkfX6A48ruzhh) • [2016](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpg-z0MkDrFrwMiiFMVr1yI) • [2017](https://www.youtube.com/playlist?list=PLuUtcRxSUZUpv2An-RNhjuZSJ5fjY7ghe)]
+  0. **[TRISS](http://www.threeriversinfosec.com/):** [2017](https://www.youtube.com/watch?v=shEEjShQVDQ&list=PL3lLo2CTc7Ywsnv0L4J1Q-tkSYdXe3GLl)
 
 
 ### BSides
@@ -187,12 +188,14 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   0. **BSidesRI (Rhode Island):** [[2013](https://www.youtube.com/playlist?list=PLNhlcxQZJSm-AlE2UhXKT7HZSn_4dht4j)]
   0. **BSides Chicago:** [irongeek: 2014]
   1. **[BSides Leeds] (@BSidesLeeds):** [[2018](https://www.youtube.com/channel/UCdnz7EZERHqmluR8RC2Y8pA/videos)]
+  0. **BSides Pittsburgh:** [[2015](https://www.youtube.com/watch?v=OU0bsDNReGI&list=PL3lLo2CTc7YzfihTqa8-Jgng15YHsbEnF) • [2016](https://www.youtube.com/watch?v=Mk_kWfUT3HI&list=PL3lLo2CTc7Yy62296ysbjeocrwlbPH2Vm) • [2017](https://www.youtube.com/watch?v=7TdCXVe9uho&list=PL3lLo2CTc7Yy8f9b3xodl_a29XRg4OnGy)]
 
 ### Meetups That Record Their Talks
   0. [SecKC](https://www.youtube.com/channel/UChiOlx_ROnjhAnmgjrY5Eyg)
   0. [SecDSM](https://www.youtube.com/channel/UCoTLdfNePDQzvdEgIToLIUg/videos)
   1. Louisville ISSA Web Pentesting workshop [[2013](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_EWRL30vt3xHpJx-d08Qx_)] `[pentesting + appsec + bug bounty]`
   2. Louisville Nmap workshop [[2014](https://www.youtube.com/playlist?list=PLNhlcxQZJSm9D37XW1SS-WBIpbk4NEgYI)] `[pentesting]`
+  0. [Steel City InfoSec](https://www.youtube.com/watch?v=5RsSdkERldg&list=PL3lLo2CTc7Yx3ffqVJpEKr7_0eH8rQDH2)
   3. To **explore infosec/hacker events near you** (& see talks in person &/or meet local infosec folk [we don't bite! usually!]), check out @nyxgeek's world map of security meetups&conferences at [hackermaps.org](http://hackermaps.org/), & check out @evilsocket's [ConfWatch.Ninja](https://confwatch.ninja/cats/infosec) (@confwatchninja) for a schedule of upcoming cons. <3
 
 ----
