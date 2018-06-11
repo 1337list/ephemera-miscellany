@@ -210,7 +210,7 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   0. @TheColonial's [OJ Reeves/th3colon1al livestream](https://www.youtube.com/c/OJReeves) `[Metasploit, Meterpreter dev + exploit dev]`
   0. @gynvael Coldwind's [livestream](https://www.youtube.com/user/GynvaelEN) `[CTF + reverse engineering]`
   0. @hedgeberg's [livestream](https://www.twitch.tv/hedgeberg/videos/all) `[reverse engineering + hardware hacking + console hacking]`
-  0.  @ktemkin's [livestream](https://www.youtube.com/channel/UCCpOO5-6C42Mde_a7zXUFEg/videos) `[reverse engineering + hardware hacking]`
+  0. @ktemkin's [livestream](https://www.youtube.com/channel/UCCpOO5-6C42Mde_a7zXUFEg/videos) `[reverse engineering + hardware hacking]`
   0. @\_r00k\_'s [livestreams + walkthroughs](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA/videos) `[CTF walkthroughs]`
   0. @MurmusCTF's [walkthroughs](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A) `[CTF walkthroughs]`
   0. @IppSec's [walkthroughs](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) `[CTF walkthroughs]`
@@ -219,7 +219,13 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   0. Micah Elizabeth Scott's **@scanlime show**:  [YouTube](https://www.youtube.com/user/micahjd) • [Patreon](https://www.patreon.com/scanlime) `[reverse engineering + sundry]`
   0. John Hammond's [YouTube channel](https://www.youtube.com/user/RootOfTheNull) `[CTF walkthroughs + programming tutorials]`
   0. [Cybersecurity Camp](https://www.youtube.com/channel/UCCm0tSE3YMifM93QjqsWRJA/playlists)
-  0. @Hak5's [tutorials](https://www.youtube.com/user/Hak5Darren/playlists) `[basic skills + pentesting]`
+  0. @Hak5's [tutorials](https://www.youtube.com/user/Hak5Darren/playlists) (with @Snubs, @mubix, @hak5darren) `[basic skills + pentesting]`
+        0. **Hak5:** [Seasons 1-5](https://www.youtube.com/playlist?list=PLW5y1tjAOzI3lY3VcUlM8X41RlOuNiKlS) • [Seasons 6-10](https://www.youtube.com/playlist?list=PLW5y1tjAOzI2tZKX6V36QmS9ZFvMMu-D1) • [Seasons 11-15](https://www.youtube.com/playlist?list=PLW5y1tjAOzI2PbgnhiAOeHiPsTmLip8Pd)
+        0. **[Open Source Recommendations](https://www.youtube.com/playlist?list=PLW5y1tjAOzI3orQNF1yGGVL5x-pR2K1dC)**
+        0. **[Hack Across the Planet](https://www.youtube.com/playlist?list=PLW5y1tjAOzI0e7hb47QdzHWZrXQrTsUUm)**
+        0. **[3D Printing](https://www.youtube.com/playlist?list=PLW5y1tjAOzI3nl5-YeVzuSdK30I0KLYqi)**
+        0. **[HakTip](https://www.hak5.org/shows/haktip)** with @Snubs
+        0. **[Metasploit Minute](https://www.hak5.org/shows/metasploit-minute)** with @mubix 
   0. [SecurityTube](https://www.youtube.com/user/TheSecurityTube/videos)
   0. @DAkacki @da_667 @oscaron @benheise @Ajediday & @mzbat's **[Rally Security](https://rallysecurity.com/)** `[weekly news breakdown]`
   0. @HECFBlog's **[Forensic Lunch](https://www.youtube.com/user/LearnForensics)** `[DFIR]`
@@ -327,9 +333,10 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
          0. **[ConFu](https://infocon.org/podcasts/Hacker%20News%20Network%20HNN/ConFu/):** 2010-2011
          0. **[Behind The Firewall](https://infocon.org/podcasts/Hacker%20News%20Network%20HNN/BehindTheFirewall/):** _(FIXME: only one clip; anybody have a complete archive?)_
      0. **[Hak5](https://infocon.org/podcasts/Hak5/) (@Hak5):**
+         0. **NOTE:** _For more up-to-date links, cf. @Hak5 entries in [Shows &/or Livestreams](#shows-or-livestreams) above._
          1. **[ThreatWire](https://infocon.org/podcasts/Hak5/ThreatWire/):** 2015-2016
          0. **[HakTip + Metasploit Minute](https://infocon.org/podcasts/Hak5/HakTip%20and%20Metasploit%20Minute/)**
-         0. **[Hak5](https://infocon.org/podcasts/Hak5/Hak5%20x265/):** _(seems to episodes from their YouTube show?)_
+         0. **[Hak5](https://infocon.org/podcasts/Hak5/Hak5%20x265/):** _(seems to be episodes from their YouTube show?)_
 
 
 
