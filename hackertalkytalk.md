@@ -206,18 +206,18 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
 
 ## Other Audiovisual Multimedia
 ### Shows &/or Livestreams
-  0. @LiveOverflow's [livestream](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/playlists) `[CTF + reverse engineering + exploit dev]`
-  0. @TheColonial's [OJ Reeves/th3colon1al livestream](https://www.youtube.com/c/OJReeves) `[Metasploit, Meterpreter dev + exploit dev]`
-  0. @gynvael Coldwind's [livestream](https://www.youtube.com/user/GynvaelEN) `[CTF + reverse engineering]`
+  0. @LiveOverflow's [livestream](https://youtube.com/LiveOverflowCTF) `[CTF + reverse engineering + exploit dev]`
+  0. OJ Reeves'/@TheColonial's [livestream](https://www.twitch.tv/ojreeves)/[archive](https://www.youtube.com/OJReeves)/[patreon](https://www.patreon.com/OJReeves) `[Binary exploitation + tool dev + exploit dev]`
+  0. @gynvael Coldwind's [livestream](https://youtube.com/GynvaelEN) `[CTF + reverse engineering]`
   0. @hedgeberg's [livestream](https://www.twitch.tv/hedgeberg/videos/all) `[reverse engineering + hardware hacking + console hacking]`
-  0. @ktemkin's [livestream](https://www.youtube.com/channel/UCCpOO5-6C42Mde_a7zXUFEg/videos) `[reverse engineering + hardware hacking]`
-  0. @\_r00k\_'s [livestreams + walkthroughs](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA/videos) `[CTF walkthroughs]`
-  0. @MurmusCTF's [walkthroughs](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A) `[CTF walkthroughs]`
-  0. @IppSec's [walkthroughs](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) `[CTF walkthroughs]`
-  0. [MeshX93](https://www.youtube.com/user/MeshX93) `[walkthroughs]`
-  0. [webpwnized](https://www.youtube.com/user/webpwnized) `[appsec, websec, netsec]`
+  0. @ktemkin's [livestream](https://youtube.com/KateTemkin) `[reverse engineering + hardware hacking]`
+  0. @\_r00k\_'s [livestreams + walkthroughs](https://youtube.com/channel/UCMACXuWd2w6_IEGog744UaA/videos) `[CTF walkthroughs]`
+  0. @MurmusCTF's [walkthroughs](https://youtube.com/MurmusCTF) `[CTF walkthroughs]`
+  0. @IppSec's [walkthroughs](https://youtube.com/IppSec) `[CTF walkthroughs]`
+  0. [MeshX93](https://youtube.com/MeshX93) `[walkthroughs]`
+  0. [webpwnized](https://youtube.com/webpwnized) `[appsec, websec, netsec]`
   0. Micah Elizabeth Scott's **@scanlime show**:  [YouTube](https://www.youtube.com/user/micahjd) • [Patreon](https://www.patreon.com/scanlime) `[reverse engineering + sundry]`
-  0. John Hammond's [YouTube channel](https://www.youtube.com/user/RootOfTheNull) `[CTF walkthroughs + programming tutorials]`
+  0. John Hammond's [YouTube channel](https://youtube.com/RootOfTheNull) `[CTF walkthroughs + programming tutorials]`
   0. [Cybersecurity Camp](https://www.youtube.com/channel/UCCm0tSE3YMifM93QjqsWRJA/playlists)
   0. @Hak5's [tutorials](https://www.youtube.com/user/Hak5Darren/playlists) (with @Snubs, @mubix, @hak5darren) `[basic skills + pentesting]`
         0. **Hak5:** [Seasons 1-5](https://www.youtube.com/playlist?list=PLW5y1tjAOzI3lY3VcUlM8X41RlOuNiKlS) • [Seasons 6-10](https://www.youtube.com/playlist?list=PLW5y1tjAOzI2tZKX6V36QmS9ZFvMMu-D1) • [Seasons 11-15](https://www.youtube.com/playlist?list=PLW5y1tjAOzI2PbgnhiAOeHiPsTmLip8Pd)
