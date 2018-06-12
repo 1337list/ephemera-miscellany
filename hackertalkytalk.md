@@ -307,6 +307,7 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
   0. The **[Social Media Security](https://socialmediasecurity.com/category/podcasts/) Podcast:** [[official site](https://socialmediasecurity.com/c) • [infocon](https://infocon.org/podcasts/Social%20Media%20Podcast%20podcast/)]
   0. **[Defrag This](https://blog.ipswitch.com/topic/podcasts) (@defrag_this) podcast**
   0. Bruce Shneier (@schneierblog)'s **[Crypto-Gram podcast](http://dhenage.libsyn.com/):** [[official site](http://dhenage.libsyn.com/) • [infocon.org](https://infocon.org/podcasts/Cryptogram%20podcast/) (pre-2010) • [newsletter](https://www.schneier.com/crypto-gram/)]
+  0. [SecTools Podcast Series](https://infoseccampus.com/podcasts/) from [InfoSec Campus (@InfoSecCampus)](https://infoseccampus.com/) `[SecTools + SecTool Authors + Security Automation]`
   0. CERT's **[Security for Business Leaders](https://www.cert.org/podcasts/podcast_categories.cfm) podcast:** [[iTunes](https://itunes.apple.com/us/podcast/certs-podcast-series-security-for-business-leaders/id203721857?mt=2)] `[management]`
   0. **[RunAs Radio](http://runasradio.com/shows) podcast:** [[iTunes](https://itunes.apple.com/ca/podcast/runas-radio/id253682066?mt=2) • [RSS](http://www.pwop.com/feed.aspx?show=runasradio&filetype=master)]
   0. **The [Standard Deviant Security Podcast](https://tony-martinvegue.squarespace.com/the-standard-deviant-podcast/) (@standeviant):** [[Stitcher](https://www.stitcher.com/podcast/the-standard-deviant-podcast)]
