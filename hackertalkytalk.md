@@ -206,6 +206,7 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
 
 ## Other Audiovisual Multimedia
 ### Shows &/or Livestreams
+  0. 13Cubed [digital forensics / pen testing videos](https://www.youtube.com/13cubed)
   0. @LiveOverflow's [livestream](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/playlists) `[CTF + reverse engineering + exploit dev]`
   0. @TheColonial's [OJ Reeves/th3colon1al livestream](https://www.youtube.com/c/OJReeves) `[Metasploit, Meterpreter dev + exploit dev]`
   0. @gynvael Coldwind's [livestream](https://www.youtube.com/user/GynvaelEN) `[CTF + reverse engineering]`
