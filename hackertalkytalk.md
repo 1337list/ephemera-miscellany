@@ -193,6 +193,7 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
 ### Meetups That Record Their Talks
   0. [SecKC](https://www.youtube.com/channel/UChiOlx_ROnjhAnmgjrY5Eyg)
   0. [SecDSM](https://www.youtube.com/channel/UCoTLdfNePDQzvdEgIToLIUg/videos)
+  0. [SecIC](https://www.youtube.com/channel/UCZ-UoEELZAH1IT3ByXxKw_w)
   1. Louisville ISSA Web Pentesting workshop [[2013](https://www.youtube.com/playlist?list=PLNhlcxQZJSm_EWRL30vt3xHpJx-d08Qx_)] `[pentesting + appsec + bug bounty]`
   2. Louisville Nmap workshop [[2014](https://www.youtube.com/playlist?list=PLNhlcxQZJSm9D37XW1SS-WBIpbk4NEgYI)] `[pentesting]`
   0. [Steel City InfoSec](https://www.youtube.com/watch?v=5RsSdkERldg&list=PL3lLo2CTc7Yx3ffqVJpEKr7_0eH8rQDH2)
