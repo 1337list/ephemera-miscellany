@@ -49,6 +49,7 @@ Feel free to add more to the list; this is pretty incomplete, but better than no
      - Louisville Infosec [2013 • 2015 • 2016 • 2017]
      - **BSides Tampa:** [2015 • [2017](https://www.youtube.com/playlist?list=PLNhlcxQZJSm988sgt1Gq9_SPWEqTkB4s8)]
      - BSides NoVa (Northern Virginia) [2017]
+     - BSides Charleston [[2013](https://www.youtube.com/watch?v=KSNonFBVpNQ&list=PLsEd7GTJqlRAnJNqmOC-Ok6gOhggzCS68) • [2014](https://www.youtube.com/watch?v=0UXX1JCSQs0&list=PLsEd7GTJqlRDz3-08TA1RoJekmbgt3Xjq) • [2015](https://www.youtube.com/watch?v=vsqRbuxHouY&list=PLsEd7GTJqlRA2M6hwNzxbwPN04pf0F73U) • [2016](https://www.youtube.com/watch?v=_647rIK1EbM&list=PLsEd7GTJqlRC-2GyQmaFMcSLzWFGnbN4-) • [2017](https://www.youtube.com/watch?v=fbRH1ROseLk&list=PLsEd7GTJqlRARBfJG1HIb8lO6tWwTQ0wg) • 2018]
      - BSides Cleveland [2014 • 2015 • 2017]
      - BSides Detroit [2015 • 2016 • 2017]
      - BSides Charm (Baltimore) [2017]
